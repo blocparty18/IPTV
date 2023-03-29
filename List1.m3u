@@ -2464,3 +2464,8 @@ http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70927
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70928
 #EXTINF:0 tvg-id="BBCRedButton5.uk" group-title="Channels",UK: BBC RED BUTTON 5
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/67303
+
+#EXTINF:0 tvg-id="BBCRedButton5.uk" group-title="Channels",CHANNEL 1
+http://sdmx.us:25461/live/belfast/belfast/2095412.ts
+#EXTINF:0 tvg-id="BBCRedButton5.uk" group-title="Channels",CHANNEL 2
+http://sdmx.us:25461/live/belfast/belfast/2123478.ts
