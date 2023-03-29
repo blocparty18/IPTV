@@ -1,0 +1,2466 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",-TV USA-
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481-TVUSA-
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | A&E
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145912.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | ADULT SWIM
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145913.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | AMC HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145914.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | AMC+
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145915.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | AMERICAN HEROS CHANNEL
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145916.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | ANIMAL PLANET
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145917.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | ANTENNA TV
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145918.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | ASPIRE
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145919.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | AWE
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145920.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | AXS TV
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145921.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | BBC AMERICA
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145922.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | BET
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145923.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | BET HER
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145924.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | BET JAMS
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145925.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | BET SOUL
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145926.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Black News Channel
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145927.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | BOUNCE
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145928.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | BRAVO EAST
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145929.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | BUZZR
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145930.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | CMT
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145932.ts
+#EXTINF:0 tvg-id="ComedyCentral.us" group-title="Channels",USA | COMEDY CENTRAL
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145933.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | COMET
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145934.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | COOKING CHANNEL
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145935.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | COURT TV
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145936.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | COZI
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145937.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Crime & Investigation
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145938.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | DABL TV
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145939.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | DESTINATION AMERICA
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145941.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | DISCOVERY CHANNEL
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145942.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | DISCOVERY FAMILY
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145943.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | DISCOVERY LIFE
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145944.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | DISCOVERY SCIENCE
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145945.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | DIY Network
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145947.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | DOG TV
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145948.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | E! ENTERTAINMENT
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145949.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | FOOD NETWORK
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145951.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | FREEFORM
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145952.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | FUSE
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145953.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | FX
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145954.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | FXM (Retro)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145955.ts
+#EXTINF:0 tvg-id="FXX.us" group-title="Channels",USA | FXX
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145956.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | FYI
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145957.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | GAC FAMILY
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145958.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | GET TV
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145959.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | GRIT
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145960.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | GSN
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145961.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | HALLMARK CHANNEL
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145962.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | HALLMARK DRAMA
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145963.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | HALLMARK MOVIES AND MYSTERIES
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145964.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | HEROS & ICONS (H&I)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145965.ts
+#EXTINF:0 tvg-id="HGTV.us" group-title="Channels",USA | HGTV
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145966.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | HISTORY CHANNEL
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145967.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | HLN
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145968.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | HSN
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145969.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | INSP
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145970.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | INVESTIGATION DISCOVERY (ID)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145971.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | ION TV
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145972.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | JUSTICE CENTRAL
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145973.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | LAW & CRIME
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145974.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | LIFETIME
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145975.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | LOGO
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145976.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | ME TV
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145977.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | MTV
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145978.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | MTV 2
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145979.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | MTV CLASSIC
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145980.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | MTV LIVE
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145981.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | NASA TV HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145982.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | NATGEO
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145983.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | NATGEO WILD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145984.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | OVATION
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145985.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | OWN
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145986.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | OXYGEN
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145987.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | PARAMOUNT NETWORK
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145988.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | PEOPLE TV
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145989.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | QVC
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145991.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | QVC 2
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145992.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | REELZ
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145993.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | RETRO PLEX
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145994.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | REVOLT
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145995.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | SMITHSONIAN CHANNEL
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145996.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | SUNDANCE
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145997.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | SYFY
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145998.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | TASTEMADE
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/145999.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | TBS EAST
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/146000.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | TCM
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/146001.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | TLC
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/146002.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | TNT EAST
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/146003.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | TRAVEL CHANNEL
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/146004.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | TRUTV EAST
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/146005.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | TV LAND
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/146006.ts
+#EXTINF:0 tvg-id="USANetwork.us" group-title="Channels",USA | USA NETWORK
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/146008.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | VH1
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/146009.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | VICELAND
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/146010.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | WE TV
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/146011.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | WEATHER CHANNEL
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/146012.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | DISNEY CHANNEL
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/146675.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | DISNEY JR
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/146676.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | NICK JR
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/146677.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | NICK MUSIC
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/146678.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | NICK TOONS
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/146679.ts
+#EXTINF:0 tvg-id="NickelodeonEast.us" group-title="Channels",USA | NICKELODEON
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/146680.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | PBS KIDS
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/146681.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | TEEN NICK
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/146682.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | UNIVERSAL KIDS
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/146683.ts
+#EXTINF:0 tvg-id="DisneyXD.us" group-title="Channels",USA | Disney XD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/146684.ts
+#EXTINF:0 tvg-id="WGN.us" group-title="Channels",US: WGN AMERICA
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/34898.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV Biggest Pop
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/146706.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CNBC | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52819.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: COMEDY CENTRAL | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52820.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: COURT TV | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52821.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CRIME & INVESTIGATION | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52822.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: DISCOVERY FAMILY | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52824.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: DISCOVERY SCIENCE | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52825.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: DISCOVERY | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52826.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: DIY NETWORK | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52827.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: E! | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52829.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: FOOD NETWORK | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52831.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: FOX Business Network | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52832.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: FOX News | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52833.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: FOX | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52834.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: FREE SPEECH TV | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52835.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: FREEFORM | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52836.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: FUSION | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52838.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: FX | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52839.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: FXM | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52840.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: FYI | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52842.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: GAME SHOW NETWORK | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52843.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: HALLMARK CHANNEL | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52845.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: HALLMARK DRAMA | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52846.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: HALLMARK MOVIES & MYSTERIES | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52847.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: HGTV | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52848.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: HISTORY CHANNEL | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52849.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: HLN | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52850.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: HSN | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52851.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: IFC | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52852.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: INSP | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52853.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: INVESTIGATION DISCOVERY | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52854.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: JUSTICE CENTRAL | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52855.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: LIFETIME MOVIES | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52856.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: LIFETIME | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52857.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Logo | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52859.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ME TV | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52860.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MSNBC | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52861.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MTV 2 | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52862.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MTV Latino | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52863.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MTV | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52864.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MTVU | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52865.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MY9 (New York) | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52866.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NAT GEO WILD EAST | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52867.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NATIONAL GEOGRAPHIC EAST | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52868.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52869.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NICK TOONS | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52870.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: OUTDOOR CHANNEL | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52871.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: OUTSIDE TV | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52872.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: OWN | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52873.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PARAMOUNT NETWORK | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52874.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PBS KIDS | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52875.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: POP | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52877.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PURSUIT CHANNEL | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52878.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: QVC | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52879.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: REELZ | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52880.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: RFD-TV | UHD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52882.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: SUNDANCE TV | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52883.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: SYFY  | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52884.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: TBS EAST | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52885.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: TCM | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52886.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: TELEMUNDO 47 | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52887.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: TNT (East) | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52888.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: TRU TV EAST | UHD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52889.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: TV ONE | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52890.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Univision | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52891.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Motor Trend | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52892.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: VH1 (East) | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52893.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: VICELAND | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52894.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: WE TV | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52895.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: WGN AMERICA | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52896.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: WPIX 11 NY | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52897.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: News 12 New Jersey | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52898.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: MSG PLUS *HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/12639.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MSG HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/20818.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | HBO (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147297.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | HBO (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147299.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | HBO 2 (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147300.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | HBO 2 (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147301.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | HBO Comedy (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147302.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | HBO Comedy (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147303.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | HBO Family (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147304.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | HBO Family (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147305.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | HBO LATINO (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147306.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | HBO LATINO (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147307.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | HBO Signature (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147308.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | HBO Signature (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147309.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | HBO Zone (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147310.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | HBO Zone (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147311.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | CineMAX (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147313.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | CineMAX (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147314.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | EPIX (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147315.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | EPIX (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147316.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Epix 2
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147317.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | EPIX Drive-In
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147318.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | EPIX Hits
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147319.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Showtime (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147320.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Showtime (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147321.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Showtime 2 (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147322.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Showtime 2 (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147323.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Showtime Extreme (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147324.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Showtime Extreme (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147325.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Showtime Family Zone (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147326.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Showtime Family Zone (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147327.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Showtime Next (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147328.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Showtime Next (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147329.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Showtime Showcase (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147330.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Showtime Showcase (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147331.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Showtime Women (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147332.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Showtime Women (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147333.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | SHOxBET (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147334.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | SHOxBET (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147335.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Starz (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147336.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Starz (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147337.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Starz Cinema (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147338.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Starz Cinema (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147339.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Starz Comedy (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147340.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Starz Comedy (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147341.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Starz Edge (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147342.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Starz Edge (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147343.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Starz Encore (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147344.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Starz Encore (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147345.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA |Starz Encore Action (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147346.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Starz Encore Action (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147347.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Starz Encore Black (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147348.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Starz Encore Black (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147349.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Starz Encore Classic (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147350.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Starz Encore Classic (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147351.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Starz Encore Family (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147352.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Starz Encore Family (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147353.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Starz Encore Suspense (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147354.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Starz Encore Suspense (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147355.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Starz Encore Westerns (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147356.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Starz Encore Westerns (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147357.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Starz in Black (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147358.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Starz in Black (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147359.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Starz Kids & Family (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147360.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Starz Kids & Family (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147361.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | ThrillerMAX (East)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147365.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | ThrillerMAX (West)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147366.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS 1
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/34842.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS 2
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/34843.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS DETROIT
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/34846.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS MIDWEST
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/34847.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS NORTH
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/34848.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS OHIO
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/34850.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS SAN DIEGO
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/34854.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS SOUTH
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/34855.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS SPORTSTIME OHIO
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/34860.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS SUN
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/34861.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS WEST
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/34863.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: FOX SPORTS DETROIT
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/34869.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: FOX SPORTS FLORIDA
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/34870.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: FNTSY SPORTS NETWORK | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52643.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: FOX SPORTS ARIZONA PLUS | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52649.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fubo Sports Network | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52670.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: GINX eSports | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52671.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: GOL TV | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52672.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",GOL TV (ES) | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52673.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MAV TV | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52674.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MSG 2 PLUS | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52676.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MSG 2 | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52677.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MSG PLUS | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52678.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MSG | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52679.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBCSN CHICAGO PLUS | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52681.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBCSN | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52683.ts
+#EXTINF:0 tvg-id="NESN.us" group-title="Channels",US: NESN  HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52684.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NESN BOSTON | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52685.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NFL NETWORK | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52686.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: SPORTSMAN CHANNEL | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52696.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: SPORTSNET New York | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52697.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: TENNIS CHANNEL | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52701.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVG 2 | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52702.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TUDNxtra 1
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52703.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TUDNxtra 2
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52704.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TUDNxtra 3
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52705.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TUDNxtra 4
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52706.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TUDNxtra 5
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52707.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TUDNxtra 6
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52708.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TUDNxtra 7
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52709.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TUDNxtra 8
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52710.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TUDNxtra 9
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52711.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TUDNxtra 10
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52712.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TUDNxtra 11
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52713.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ZONA FUTBOL
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52720.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: TyC Sports | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52714.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: UFC TV
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52715.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: UFC TV | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52716.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA TV | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/30855.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: ESPN
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/35057.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ESPN | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52642.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: ESPN 2
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/35058.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ESPN 2 | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52628.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ESPN 3
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/50683.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: ESPN DEPORTES
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/35059.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ESPN DEPORTES | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52637.ts
+#EXTINF:0 tvg-id="ESPNDeportesHD.us" group-title="Channels",US: ESPN DEPORTES FHD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/35079.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: ESPN NEWS
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/35060.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ESPN NEWS | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52639.ts
+#EXTINF:0 tvg-id="ESPNews.us" group-title="Channels",US: ESPN News HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/35082.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: ESPN U
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/35061.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ESPN U | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52641.ts
+#EXTINF:0 tvg-id="SECNetworkHD.us" group-title="Channels",US: SEC Network HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/48336.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: beIN Sports 1 | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/53184.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",bein Sports USA | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/53185.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Bein Sports 2 | (ES)
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/53186.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: BeIN Sports 4 | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/53188.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: BeIN Sports 6 | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/53190.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: BeIN Sports 7 | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/53191.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: BeIN Sports 8 | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/53192.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: BeIN Sports 12| HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/53196.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: BIG TEN NETWORK | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/53197.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ELEVEN SPORTS NETWORK | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/53198.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: ACC NETWORK
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/35156.ts
+#EXTINF:0 tvg-id="TSN1.ca" group-title="Channels",TSN 1
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/19933.ts
+#EXTINF:0 tvg-id="TSN2.ca" group-title="Channels",TSN 2
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/19934.ts
+#EXTINF:0 tvg-id="TSN3.ca" group-title="Channels",TSN 3
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/19935.ts
+#EXTINF:0 tvg-id="TSN4.ca" group-title="Channels",TSN 4
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/19936.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPECTRUM SPORTSNET LA
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/36517.ts
+#EXTINF:0 tvg-id="SpectrumSportsNet.us" group-title="Channels",SPECTRUM SPORTSNET
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/130654.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: VSIN | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52717.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: WORLD FISHING NETWORK | HD*
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52718.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: WWE NETWORK | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/52719.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PAC-12 ARIZONA | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147578.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PAC-12 BAY AREA | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147579.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PAC-12 LOS ANGELES | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147580.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PAC-12 MOUNTAIN | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147581.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PAC-12 NETWORK | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147582.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PAC-12 OREGON | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147583.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PAC-12 WASHINGTON | HD
+http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147584.ts
+
+#EXTINF:0 tvg-id="USANetwork.us" group-title="Channels",US: USA Network
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1
+#EXTINF:0 tvg-id="Syfy.us" group-title="Channels",US: SYFY
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3
+#EXTINF:0 tvg-id="TNT.us" group-title="Channels",US: TNT
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/7
+#EXTINF:0 tvg-id="TBSHD.us" group-title="Channels",US: TBS
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/8
+#EXTINF:0 tvg-id="FX.us" group-title="Channels",US: FX
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/11
+#EXTINF:0 tvg-id="A-E.us" group-title="Channels",US: A&E
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/12
+#EXTINF:0 tvg-id="TLC.us" group-title="Channels",US: TLC
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/13
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PARAMOUNT NETWORK
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/16
+#EXTINF:0 tvg-id="Oxygen.us" group-title="Channels",US: OXYGEN
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/17
+#EXTINF:0 tvg-id="TVLand.us" group-title="Channels",US: TV LAND
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/18
+#EXTINF:0 tvg-id="OWN.us" group-title="Channels",US: OWN
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/20
+#EXTINF:0 tvg-id="FXX.us" group-title="Channels",US: FXX
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/22
+#EXTINF:0 tvg-id="Freeform.us" group-title="Channels",US: FREEFORM
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/24
+#EXTINF:0 tvg-id="FuseHD.us" group-title="Channels",US: FUSE
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/25
+#EXTINF:0 tvg-id="ComedyCentral.us" group-title="Channels",US: Comedy Central
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/27
+#EXTINF:0 tvg-id="BET.us" group-title="Channels",US: BET
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/28
+#EXTINF:0 tvg-id="FOXNewsChannel.us" group-title="Channels",US: FOX News
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/36
+#EXTINF:0 tvg-id="MSNBCHD.us" group-title="Channels",US: MSNBC
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/37
+#EXTINF:0 tvg-id="VH1.us" group-title="Channels",US: VH1
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/39
+#EXTINF:0 tvg-id="CMT.us" group-title="Channels",US: CMT
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/40
+#EXTINF:0 tvg-id="NickelodeonEast.us" group-title="Channels",US: Nickelodeon
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/42
+#EXTINF:0 tvg-id="CartoonNetwork.us" group-title="Channels",US: Cartoon Network
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/43
+#EXTINF:0 tvg-id="POP.us" group-title="Channels",US: Pop
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/44
+#EXTINF:0 tvg-id="NickJr.us" group-title="Channels",US: Nick Jr
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/45
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: FXM
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/46
+#EXTINF:0 tvg-id="ShowtimeE.us" group-title="Channels",US: Showtime
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/47
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Sundance
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/48
+#EXTINF:0 tvg-id="HBOEast.us" group-title="Channels",US: HBO
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/49
+#EXTINF:0 tvg-id="Lifetime.us" group-title="Channels",US: Lifetime
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/50
+#EXTINF:0 tvg-id="IFC.us" group-title="Channels",US: IFC
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/51
+#EXTINF:0 tvg-id="HLN.us" group-title="Channels",US: HLN
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/52
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: HGV TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/53
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Hallmark Drama
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/54
+#EXTINF:0 tvg-id="Hallmark.us" group-title="Channels",US: Hallmark Channel
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/55
+#EXTINF:0 tvg-id="Discovery.us" group-title="Channels",US: Discovery
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/56
+#EXTINF:0 tvg-id="TravelChannel.us" group-title="Channels",US: Travel Channel HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/59
+#EXTINF:0 tvg-id="NationalGeographic.us" group-title="Channels",US: National Geographic
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/62
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NatGeo Wild
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/63
+#EXTINF:0 tvg-id="AmericanHeroes.us" group-title="Channels",US: American Heroes
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64
+#EXTINF:0 tvg-id="History.us" group-title="Channels",US: History channel
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65
+#EXTINF:0 tvg-id="NBCSportsNetwork.us" group-title="Channels",US: NBCSN
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/67
+#EXTINF:0 tvg-id="NESN.us" group-title="Channels",US: NESN
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NFL NETWORK
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/71
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: The Golf Channel
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/72
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/75
+#EXTINF:0 tvg-id="FOXSports2.us" group-title="Channels",US: Fox Sports 2
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/76
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="Channels",US: Fox Sports 1
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/77
+#EXTINF:0 tvg-id="FOXSoccerPlus.us" group-title="Channels",US: FOX Soccer plus
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/78
+#EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="Channels",US: Bein Sports Ñ
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/81
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="Channels",US: Bein Sports
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/82
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Bein La Liga
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/83
+#EXTINF:0 tvg-id="ESPN2.us" group-title="Channels",US: ESPN 2
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/84
+#EXTINF:0 tvg-id="ESPNHD.us" group-title="Channels",US: ESPN
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/85
+#EXTINF:0 tvg-id="UNIVERSO.us" group-title="Channels",US: UNIVERSO
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/88
+#EXTINF:0 tvg-id="TennisChannelHD.us" group-title="Channels",US: Tennis Channel HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/89
+#EXTINF:0 tvg-id="GSNHD.us" group-title="Channels",US: GSN HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/93
+#EXTINF:0 tvg-id="FOXDeportes.us" group-title="Channels",US: FOX Deportes HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/94
+#EXTINF:0 tvg-id="E.us" group-title="Channels",US: E!
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/95
+#EXTINF:0 tvg-id="CNN.us" group-title="Channels",US: CNN
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/96
+#EXTINF:0 tvg-id="Bravo.us" group-title="Channels",US: Bravo
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/97
+#EXTINF:0 tvg-id="TravelChannel.us" group-title="Channels",US: Travel Channel
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/98
+#EXTINF:0 tvg-id="StarzKids-FamilyHD.us" group-title="Channels",US: STARZ Kids & Family
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/99
+#EXTINF:0 tvg-id="StarzEncoreWesterns.us" group-title="Channels",US: STARZ ENCORE Westerns
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/100
+#EXTINF:0 tvg-id="StarzEncoreFamily.us" group-title="Channels",US: STARZ ENCORE Family
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/101
+#EXTINF:0 tvg-id="StarzEncoreClassic.us" group-title="Channels",US: STARZ ENCORE Classic
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/102
+#EXTINF:0 tvg-id="StarzEncoreBlack.us" group-title="Channels",US: STARZ ENCORE Black
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/103
+#EXTINF:0 tvg-id="StarzEncoreActionHD.us" group-title="Channels",US: STARZ Encore Action HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/104
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Revolt
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/105
+#EXTINF:0 tvg-id="Nicktoons.us" group-title="Channels",US: Nicktoons
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/106
+#EXTINF:0 tvg-id="MegaTV.us" group-title="Channels",US: MegaTV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/108
+#EXTINF:0 tvg-id="InvestigationDiscovery.us" group-title="Channels",US: Investigation Discovery
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/110
+#EXTINF:0 tvg-id="HistoryenEspanol.us" group-title="Channels",US: History en Espanol
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/111
+#EXTINF:0 tvg-id="HBOFamilyEast.us" group-title="Channels",US: HBO Family East
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/112
+#EXTINF:0 tvg-id="Galavision.us" group-title="Channels",US: Galavision
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/113
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Epix Hits
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/114
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Epix 2
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/115
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Epix
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/116
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: BET Her
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/120
+#EXTINF:0 tvg-id="HBOLatino.us" group-title="Channels",US:  HBO LATINO
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/127
+#EXTINF:0 tvg-id="ext" group-title="Channels",US:  HBO FAMILY LATINO
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/128
+#EXTINF:0 tvg-id="ext" group-title="Channels",US:  HBO 2 LATINO
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/129
+#EXTINF:0 tvg-id="ext" group-title="Channels",US:  STARZ EDGE USA
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/134
+#EXTINF:0 tvg-id="UnivisionEast.us" group-title="Channels",US:  UNIVISION
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/138
+#EXTINF:0 tvg-id="UniMas.us" group-title="Channels",US:  UNIMAS
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/139
+#EXTINF:0 tvg-id="NHLNetwork.us" group-title="Channels",US: NHL Network
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/522
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: WWE NETWORK 24/7
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/524
+#EXTINF:0 tvg-id="ext" group-title="Channels",UFC FIGHT PASS
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/704
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Telemundo Boston
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1081
+#EXTINF:0 tvg-id="MSGPlus.us" group-title="Channels",US: MSG PLUS
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1638
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MSG PLUS 2
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1639
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: STADIUM
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1670
+#EXTINF:0 tvg-id="CBSSportsNetwork.us" group-title="Channels",US: CBS SPORTS
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1674
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MTV 2
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1651
+#EXTINF:0 tvg-id="MTV.us" group-title="Channels",US: MTV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1650
+#EXTINF:0 tvg-id="NBCSportsBayArea.us" group-title="Channels",US: NBC Sports Bay Area
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1644
+#EXTINF:0 tvg-id="NBCSportsCalifornia.us" group-title="Channels",US: NBC Sports California
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1645
+#EXTINF:0 tvg-id="SportsmanChannel.us" group-title="Channels",US: SPORTSMAN CHANNEL
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1641
+#EXTINF:0 tvg-id="OutdoorChannel.us" group-title="Channels",US: Outdoor Channel
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1643
+#EXTINF:0 tvg-id="ext" group-title="Channels",US:  World Fishing Network
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1642
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Pac-12 Arizona
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1167
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Pac-12 Bay Area
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1168
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Pac-12 Los Angeles
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1169
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Pac-12 Mountain
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1170
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Pac-12 Network
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1171
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Pac-12 Oregon
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1172
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Pac-12 Washington
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1173
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox College Sports Atlantic
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1174
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox College Sports Central
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1175
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Sports Northwest
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1647
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Sports Philly
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1646
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: OLYMPIC CHANNEL
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1675
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Sports Chicago
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1649
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: THRILLERMAX
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1957
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: EPIX DRIVE-IN
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1958
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: INDIE PLEX
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1960
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MSG
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1636
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MTV U
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1654
+#EXTINF:0 tvg-id="MTVLive.us" group-title="Channels",US: MTV Live
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1653
+#EXTINF:0 tvg-id="MTVClassic.us" group-title="Channels",US: MTV Classic
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1652
+#EXTINF:0 tvg-id="HallmarkMovies-Mysteries.us" group-title="Channels",US: Hallmark Movies & Mysteries
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2171
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Bally Sports Southeast Plus HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2249
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: FOX SPORTS INDIANA
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2250
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: BET JAMS
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1084
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: BET Soul
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1085
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: TUDN
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1083
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MARQUEE SPORTS NETWORK
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2624
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Eleven Sports Network
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2724
+#EXTINF:0 tvg-id="BTN.us" group-title="Channels",US: Big Ten Network
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2725
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: beIN Sports Canada
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2726
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: The Fight Network
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2738
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: SportsNet NY
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2739
+#EXTINF:0 tvg-id="ext" group-title="Channels",US-2: Zona Futbol
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2740
+#EXTINF:0 tvg-id="ext" group-title="Channels",US-2: fubo Sports Network
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2741
+#EXTINF:0 tvg-id="CinemÄx.us" group-title="Channels",US: CINEMAX
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2743
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Universal Kids
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2511
+#EXTINF:0 tvg-id="StarzEncoreSuspense.us" group-title="Channels",US: Starz Encore Suspense
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3276
+#EXTINF:0 tvg-id="DisneyChannelEast.us" group-title="Channels",US: Disney Channel
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3277
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Showtime Women
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3279
+#EXTINF:0 tvg-id="StarzEast.us" group-title="Channels",US: Starz
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3280
+#EXTINF:0 tvg-id="SHOWTIME2.us" group-title="Channels",US: Showtime 2
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3281
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PixL
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3283
+#EXTINF:0 tvg-id="ESPNews.us" group-title="Channels",US: ESPNEWS
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3284
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Showtime Family Zone
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3285
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: RetroPlex
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3287
+#EXTINF:0 tvg-id="HDNETMOVIES.us" group-title="Channels",US: HDNet Movies
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3289
+#EXTINF:0 tvg-id="ShowtimeShowcase.us" group-title="Channels",US: Showtime Showcase
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3290
+#EXTINF:0 tvg-id="ShowtimeNextHD.us" group-title="Channels",US: Showtime Next
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3291
+#EXTINF:0 tvg-id="DisneyJunior.us" group-title="Channels",US: Disney Junior
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3292
+#EXTINF:0 tvg-id="ESPNU.us" group-title="Channels",US: ESPNU
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3293
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Bloomberg Television
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3294
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ACC Network
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3295
+#EXTINF:0 tvg-id="StarzComedyHD.us" group-title="Channels",US: Starz Comedy
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3296
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MoviePlex
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3297
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: DOGTV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3298
+#EXTINF:0 tvg-id="ShowtimeExtreme.us" group-title="Channels",US: Showtime Extreme
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3299
+#EXTINF:0 tvg-id="StarzEncore.us" group-title="Channels",US: Starz Encore
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3300
+#EXTINF:0 tvg-id="DisneyXD.us" group-title="Channels",US: Disney XD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3301
+#EXTINF:0 tvg-id="Cinemax5StarMAXHDEast.us" group-title="Channels",US: 5 StarMax
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3308
+#EXTINF:0 tvg-id="MLBNetwork.us" group-title="Channels",MLB Network
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/62229
+#EXTINF:0 tvg-id="ext" group-title="Channels",US : TNT
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64205
+#EXTINF:0 tvg-id="HBOZoneHD.us" group-title="Channels",US: HBO Zone
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64695
+#EXTINF:0 tvg-id="HBO2East.us" group-title="Channels",US: HBO 2
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64697
+#EXTINF:0 tvg-id="HBOSignature.us" group-title="Channels",US: HBO Signature
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64698
+#EXTINF:0 tvg-id="TCM.us" group-title="Channels",US: Turner Classic Movies
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64699
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: COURT TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64705
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: COURT TV MYSTERY
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64706
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MOTOR TREND
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64717
+#EXTINF:0 tvg-id="ext" group-title="Channels",MUSICA URBANA
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64718
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: KTLA 5
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64878
+#EXTINF:0 tvg-id="Boomerang.us" group-title="Channels",US: BOOMERANG
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64920
+#EXTINF:0 tvg-id="AXSTV.us" group-title="Channels",US: AXS TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64922
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: REELZ
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64923
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PEOPLE TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64924
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: SONY MOVIE CHANNEL
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64928
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PBS KIDS
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64929
+#EXTINF:0 tvg-id="HBOComedyHD.us" group-title="Channels",US: HBO COMEDY
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65073
+#EXTINF:0 tvg-id="HBOLatino.us" group-title="Channels",US: HBO LATINO
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65074
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: SHOxBET
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65075
+#EXTINF:0 tvg-id="ActionMaxHDEast.us" group-title="Channels",US: ActionMax
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65076
+#EXTINF:0 tvg-id="MoreMAX.us" group-title="Channels",US: MoreMax
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65077
+#EXTINF:0 tvg-id="StarzinBlack.us" group-title="Channels",US: Starz in Black
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65078
+#EXTINF:0 tvg-id="StarzCinemaHD.us" group-title="Channels",US: Starz Cinema
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65079
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: StarzEncore Español
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65080
+#EXTINF:0 tvg-id="SpectrumSportsNetHD.us" group-title="Channels",US: SPECTRUM SPORTSNET HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66636
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: SPECTRUM SPORTSNET LA
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66637
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: AT&T SPORTSNET
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66639
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: AT&T SPORTSNET ROCKY MOUNTAIN
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66640
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: BALLY SPORTS MIDWEST
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66643
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: BALLY SPORTS DETROIT
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66644
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: BALLY SPORTS OHIO
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66645
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: BALLY SPORTS OKLAHOMA
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66646
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: BALLY SPORTS SOUTHEAST
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66647
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: BALLY SPORTS SOUTHWEST
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66648
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: BALLY SPORTS WEST
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66649
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: BALLY SPORTS WISCONSIN
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66650
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: BALLY SPORTS SOCAL
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66651
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: AMC PRESENTS
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66707
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ONE AMERICA NEWS
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66711
+#EXTINF:0 tvg-id="Ovation.us" group-title="Channels",US: OVATION
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66712
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | ALTITUDE SPORTS
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66714
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: TVG NETWORK
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66715
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: OUTERMAX
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/68401
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: THE COWBOY CHANNEL
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/68403
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: OUTSIDE TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/68408
+#EXTINF:0 tvg-id="FYI.us" group-title="Channels",US: FYI
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2457
+#EXTINF:0 tvg-id="FoxBusinessNetwork.us" group-title="Channels",US: FOX Business Network
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2454
+#EXTINF:0 tvg-id="CNBC.us" group-title="Channels",US: CNBC
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2432
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cheddar Stream
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2428
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Sports Washington
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1648
+#EXTINF:0 tvg-id="SECNetwork.us" group-title="Channels",US: SEC NETWORK
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70104
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 01
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70471
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 02
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70472
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 03
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70473
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 04
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70474
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 05
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70475
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 06
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70476
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 07
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70477
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 08
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70478
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 09
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70479
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 10
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70480
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 11
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70481
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 12
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70482
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 13
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70483
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 14
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70484
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 15
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70485
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 16
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70486
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 17
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70487
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 18
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70488
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 19
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70489
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 20
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70490
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 21
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70491
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 22
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70492
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 23
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70493
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 24
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70494
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 25
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70495
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 26
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70496
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 27
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70497
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 28
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70498
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 29
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70499
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 30
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70500
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 31
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70501
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 32
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70502
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 33
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70503
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 34
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70504
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 35
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70505
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 36
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70506
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 37
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70507
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 38
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70508
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 39
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70509
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | College Baseball 40
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70510
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Newsy
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/63818
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 1 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69965
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 2 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69966
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 3 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69967
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 4 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69968
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 5 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69969
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 6 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69970
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 7 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69971
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 8 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69972
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 9 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69973
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 10 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69974
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 11 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70611
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 12 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70612
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 13 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70613
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 14 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70614
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 15 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70615
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 16 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70616
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 17 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70617
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 18 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70618
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 19 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70619
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 20 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70620
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 21 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70621
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 22 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70622
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 23 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70623
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 24 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70624
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 25 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70625
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 26 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70626
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 27 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70627
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 28 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70628
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 29 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70629
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 30 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70630
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 31 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70631
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 32 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70632
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 33 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70633
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 34 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70634
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 35 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70635
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 36 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70636
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 37 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70637
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 38 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70638
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 39 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70639
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 40 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70640
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 41 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70641
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 42 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70642
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 43 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70643
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 44 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70644
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 45 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70645
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 46 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70646
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 47 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70647
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 48 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70648
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 49 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70649
+#EXTINF:0 tvg-id="ext" group-title="Channels",EVENTS 50 |
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70650
+#EXTINF:0 tvg-id="ext" group-title="Channels",NHL TV 01 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/621
+#EXTINF:0 tvg-id="ext" group-title="Channels",NHL TV 02 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/623
+#EXTINF:0 tvg-id="ext" group-title="Channels",NHL TV 03 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/624
+#EXTINF:0 tvg-id="ext" group-title="Channels",NHL TV 04 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/625
+#EXTINF:0 tvg-id="ext" group-title="Channels",NHL TV 05 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/626
+#EXTINF:0 tvg-id="ext" group-title="Channels",NHL TV 06 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/627
+#EXTINF:0 tvg-id="ext" group-title="Channels",NHL TV 07 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/628
+#EXTINF:0 tvg-id="ext" group-title="Channels",NHL TV 08 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/629
+#EXTINF:0 tvg-id="ext" group-title="Channels",NHL TV 09 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/630
+#EXTINF:0 tvg-id="ext" group-title="Channels",NHL TV 10 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/631
+#EXTINF:0 tvg-id="ext" group-title="Channels",NHL TV 11 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/632
+#EXTINF:0 tvg-id="ext" group-title="Channels",NHL TV 12 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/633
+#EXTINF:0 tvg-id="ext" group-title="Channels",NHL TV 13 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/634
+#EXTINF:0 tvg-id="ext" group-title="Channels",NHL TV 14 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/635
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA 11 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/656
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA 01 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/657
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA 02 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/658
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA 03  HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/659
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA 04 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/660
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA 05 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/661
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA 06 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/662
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA 07 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/663
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA 08 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/664
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA 09 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/665
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA 10 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/666
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA 12 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/667
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA 13 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/668
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA 14 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/669
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA 15 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/670
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL REDZONE (US)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/671
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB 00
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/62213
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB 01
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/62214
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB 02
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/62215
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB 03
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/62216
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB 04
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/62217
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB 05
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/62218
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB 06
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/62219
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB 07
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/62220
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB 08
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/62221
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB 09
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/62222
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB 10
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/62223
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB STRIKE ZONE
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/62230
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB 11
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/62231
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB 12
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/62232
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB 13
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/62233
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB 14
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/62234
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 0
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64754
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 1
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64755
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 2
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64756
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 3
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64757
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 4
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64758
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 5
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64759
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 6
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64760
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 7
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64761
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 8
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64762
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 9
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64763
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 10
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64764
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 11
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64765
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 12
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64766
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 13
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64767
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 14
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64768
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 15
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64785
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB 15
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66167
+#EXTINF:0 tvg-id="ext" group-title="Channels",NHL TV 15 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70312
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 000
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70929
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 001
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70930
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 002
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70931
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 003
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70932
+#EXTINF:0 tvg-id="NFLSundayTicketGameMix.us" group-title="Channels",NFL 004
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70933
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 005
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70934
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 006
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70935
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 007
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70936
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 008
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70937
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 009
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70938
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 010
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70939
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 011
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70940
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 012
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70941
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 013
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70942
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 014
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70943
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 015
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70944
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Bally Sports Florida
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1663
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLS 01
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66652
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLS 02
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66653
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLS 03
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66654
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLS 04
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66655
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLS 05
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66656
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLS 06
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66657
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLS 07
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66658
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLS 08
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66659
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLS 09
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66660
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLS 10
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66661
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLS 11
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66662
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLS 12
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70698
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLS 13
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70699
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLS 14
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70700
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",-TV CA-
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/-TVCANADA-
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: FOOD NETWORK HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1089
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: FIGHT NETWORK
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1090
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: E! CANADA HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1091
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: DTOUR HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1092
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: DIY NETWORK HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1093
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: DISCOVERY CANADA HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1094
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CTV SCI-FI HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1095
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CTV DRAMA HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1097
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CTV COMEDY HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1098
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CRIME & INVESTIGATION
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1099
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CP24 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1100
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CMT CANADA
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1101
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CHCH HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1103
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: AMC HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1108
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: ADULT SWIM HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1109
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: ABC SPARK HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1110
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: A&E
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1111
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: GAME TV HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1113
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: FYI HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1114
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: FX HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1115
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: FXX HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1116
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: MAKEFUL
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1118
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: LIFETIME HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1119
+#EXTINF:0 tvg-id="HistoryHD.ca" group-title="Channels",CA: HISTORY HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1122
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: HGTV CANADA HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1123
+#EXTINF:0 tvg-id="Slice.ca" group-title="Channels",CA: SLICE
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1125
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: SHOWCASE HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1126
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: PBS HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1127
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: OWN
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1128
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: NAT GEO WILD HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1131
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: NAT GEO HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1132
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: MOVIETIME HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1133
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: YES NETWORK HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1134
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: W NETWORK EAST
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1135
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: TVA MONTREAL HD (FR)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1138
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA-F: TV5 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1139
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: TCM
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1140
+#EXTINF:0 tvg-id="TLC.ca" group-title="Channels",CA: TLC HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1142
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: TFO  (FR)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1143
+#EXTINF:0 tvg-id="TSN1.ca" group-title="Channels",CA: TSN 1 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1145
+#EXTINF:0 tvg-id="TSN2.ca" group-title="Channels",CA: TSN 2 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1146
+#EXTINF:0 tvg-id="TSN3.ca" group-title="Channels",CA: TSN 3 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1147
+#EXTINF:0 tvg-id="TSN4.ca" group-title="Channels",CA: TSN 4 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1148
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: TSN 5 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1149
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: SPORTSNET PACIFIC HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1150
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: SPORTSNET ONTARIO HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1151
+#EXTINF:0 tvg-id="SportsNetOneHD.ca" group-title="Channels",CA: SPORTSNET ONE HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1152
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: SPORTSNET EAST HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1153
+#EXTINF:0 tvg-id="TheScore.ca" group-title="Channels",CA: SPORTSNET 360 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1154
+#EXTINF:0 tvg-id="SportsNetWestHD.ca" group-title="Channels",CA: SPORTSNET WEST HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1155
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: GLOBAL HALIFAX
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2023
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: GLOBAL TORONTO
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2025
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: GLOBAL VANCOUVER
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2026
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CBC
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2027
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CBC OTTAWA
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2037
+#EXTINF:0 tvg-id="CBCNewsNetwork.ca" group-title="Channels",CA: CBC TORONTO
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2039
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CITY TV TORONTO HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2046
+#EXTINF:0 tvg-id="CITY.ca" group-title="Channels",CA: CITY VANCOUVER
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2047
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CRAVE 1 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2048
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CRAVE 2 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2049
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CRAVE 4 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2051
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CTV 2 VANCOUVER
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2052
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CTV HALIFAX
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2054
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CTV SI FI
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2059
+#EXTINF:0 tvg-id="CTVToronto.ca" group-title="Channels",CA: CTV TORONTO
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2060
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CTV VANCOUVER
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2061
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CTV2 OTTAWA
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2062
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: SUPER ECRAN 2
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2089
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: SUPER ECRAN 4
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2091
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA : APTN
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/62043
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA:  ICI MONTREAL (FR)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2082
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CRAVE 3
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64391
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: RDS (FR)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64720
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: RDS 2 (FR)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64721
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: RDS INFO (FR)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64722
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA:CANAL D (FR)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64723
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA:CINE POP (FR)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64724
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA:DISNEY (FR)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64725
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA:EVASION (FR)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64726
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: HISTORIA (FR)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64727
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: ICI VANCOUVER (FR)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64728
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: METEO (FR)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64729
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: MOI ET CIE (FR)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64730
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA:PRISE (FR)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64731
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA:TELE QUEBEC (FR)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64733
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA:TVA SPORTS (FR)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64734
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA:VIE (FR)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64735
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA:VRAK TV (FR)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64736
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA:Z TELE (FR)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64737
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA:ZESTE (FR)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64738
+#EXTINF:0 tvg-id="YTV.ca" group-title="Channels",CA: YTV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64927
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Family Jr HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65293
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Family HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65294
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Disney XD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65295
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Disney Junior
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65296
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CTV News Channel HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65298
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CPAC French
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65299
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CPAC English
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65300
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CHRGD HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65302
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CBC St. John
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65303
+#EXTINF:0 tvg-id="CartoonNetworkSD.ca" group-title="Channels",CA: Cartoon Network
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65305
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: BNN Bloomberg HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65307
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: ICI RDI HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65308
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: HLN
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65310
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Golf Channel HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65311
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Peachtree TV HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65312
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: OMNI2 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65313
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: OMNI1 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65314
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: OLN HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65315
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: MTV HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65317
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: TV Ontario HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65318
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: TSC HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65319
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Treehouse HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65320
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: TELETOON HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65321
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: LCN
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65974
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: MAX
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65975
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CASA
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65976
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Prise 2
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65977
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: YOOPA
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65978
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Addik TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65979
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Super Ecran 1
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65980
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Super Ecran 3
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65981
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Tele Francophonie
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65982
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Noovo
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65984
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: TVA Sports 2
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65985
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: ICI TELE
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65986
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Dejaview
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65987
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: City Montreal
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65988
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: OUT TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65989
+#EXTINF:0 tvg-id="CottageLife.ca" group-title="Channels",CA: Cottage Life
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65990
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Global TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65991
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Global News
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65992
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CTV 2 Toronto
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65993
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Heart & Home
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65994
+#EXTINF:0 tvg-id="SportsnetWorld.ca" group-title="Channels",CA: Sportsnet World
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65995
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",-TV LAT-
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/-TVLATINO-
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: Az Click
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/140
+#EXTINF:0 tvg-id="ForoTVHD.mx" group-title="Channels",MX: Foro TV HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/141
+#EXTINF:0 tvg-id="FilmArts.mx" group-title="Channels",MX: Film & Arts
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/145
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: ADN40 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/146
+#EXTINF:0 tvg-id="Cadena3.mx" group-title="Channels",MX: Excelsior TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/147
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: Formula Noticias
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/148
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: Multimedios Plus HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/149
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: Fox Sports 1
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/151
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: Paramount Channel HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/152
+#EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="Channels",MX: Fox Sports 2 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/153
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Channels",MX: Fox Sports 3
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/156
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: NBC Golf
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/157
+#EXTINF:0 tvg-id="CNNesp.mx" group-title="Channels",MX: CNN en Español
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/159
+#EXTINF:0 tvg-id="Bloomberg.mx" group-title="Channels",MX: Bloomberg
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/161
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: BBC World News
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/162
+#EXTINF:0 tvg-id="TDN.mx" group-title="Channels",MX: TDN
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/165
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: HLN
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/167
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: Baby TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/168
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: Canal Sony
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/170
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: Warner
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/171
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Channels",MX: Azteca 7
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/172
+#EXTINF:0 tvg-id="StudioUniversal.mx" group-title="Channels",MX: Studio Universal
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/173
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Channels",MX: Azteca Deportes
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/174
+#EXTINF:0 tvg-id="FX.mx" group-title="Channels",MX: FX
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/175
+#EXTINF:0 tvg-id="AyE.mx" group-title="Channels",MX: A&E
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/176
+#EXTINF:0 tvg-id="AXN.mx" group-title="Channels",MX: AXN
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/177
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: Nick 2
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/179
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: Tru TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/180
+#EXTINF:0 tvg-id="ComedyCentral.mx" group-title="Channels",MX: Comedy Central
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/184
+#EXTINF:0 tvg-id="Unicable.mx" group-title="Channels",MX: Unicable
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/185
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: Hola TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/186
+#EXTINF:0 tvg-id="Maschic.mx" group-title="Channels",MX: Mas Chic
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/187
+#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="Channels",MX: Multimedios
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/191
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: Televisa Pueblo
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/193
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: TV Mas
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/195
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: AFORE AZTECA
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/196
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: Nat Geo Kids
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/199
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: Star TVE
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/200
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: Investigation Discovery
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/201
+#EXTINF:0 tvg-id="AnimalPlanet.mx" group-title="Channels",MX: Animal Planet
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/202
+#EXTINF:0 tvg-id="TLC.mx" group-title="Channels",MX: TLC
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/204
+#EXTINF:0 tvg-id="AzCorazon.mx" group-title="Channels",MX: AZ Corazon
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/207
+#EXTINF:0 tvg-id="Fox.mx" group-title="Channels",MX: Fox
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/208
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: E! Entertainment
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/209
+#EXTINF:0 tvg-id="SyFy.mx" group-title="Channels",MX: SyFy
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/210
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: TNT Series
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/212
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: Garage TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/213
+#EXTINF:0 tvg-id="Glitz.mx" group-title="Channels",MX: Glitz
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/214
+#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Channels",MX: Distrito Comedia
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/216
+#EXTINF:0 tvg-id="TBS.mx" group-title="Channels",MX: TBS
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/217
+#EXTINF:0 tvg-id="Tlnovelas.mx" group-title="Channels",MX: Telenovelas
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/218
+#EXTINF:0 tvg-id="AzMundo.mx" group-title="Channels",MX: AZ Mundo
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/219
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Channels",MX: Discovery Kids
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/220
+#EXTINF:0 tvg-id="DisneyJr.mx" group-title="Channels",MX: Disney Jr.
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/221
+#EXTINF:0 tvg-id="NickJr.mx" group-title="Channels",MX: Nick Jr.
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/222
+#EXTINF:0 tvg-id="DisneyChannel.mx" group-title="Channels",MX: Disney Channel
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/223
+#EXTINF:0 tvg-id="Nicktoons.mx" group-title="Channels",MX: Nicktoons
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/224
+#EXTINF:0 tvg-id="Nickelodeon.mx" group-title="Channels",MX: Nickelodeon
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/225
+#EXTINF:0 tvg-id="CartoonNetwork.mx" group-title="Channels",MX: Cartoon Network
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/227
+#EXTINF:0 tvg-id="DisneyXD.mx" group-title="Channels",MX: Disney XD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/228
+#EXTINF:0 tvg-id="Boomerang.mx" group-title="Channels",MX: Boomerang
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/229
+#EXTINF:0 tvg-id="Tooncast.mx" group-title="Channels",MX: Tooncast
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/231
+#EXTINF:0 tvg-id="DePelicula.mx" group-title="Channels",MX: De Pelicula
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/232
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: Discovery Theater
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/233
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: History
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/234
+#EXTINF:0 tvg-id="NatGeoWild.mx" group-title="Channels",MX: Nat Geo Wild
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/235
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: Discovery World
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/236
+#EXTINF:0 tvg-id="DiscoveryChannel.mx" group-title="Channels",MX: Discovery Channel
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/237
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Channels",MX: Discovery H&H
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/238
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: National Geographic
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/239
+#EXTINF:0 tvg-id="DiscoverySci.mx" group-title="Channels",MX: Discovery Science
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/241
+#EXTINF:0 tvg-id="DiscoveryCivil.mx" group-title="Channels",MX: Discovery Civilization
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/242
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: AZ Cinema
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/250
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Channels",MX: Cinecanal
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/251
+#EXTINF:0 tvg-id="TNT.mx" group-title="Channels",MX: TNT
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/252
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: Golden Plus
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/253
+#EXTINF:0 tvg-id="AMC.mx" group-title="Channels",MX: AMC
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/256
+#EXTINF:0 tvg-id="Space.mx" group-title="Channels",MX: Space
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/257
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Channels",MX: Cinemax
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/259
+#EXTINF:0 tvg-id="GoldenEdge.mx" group-title="Channels",MX: Golden Edge
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/260
+#EXTINF:0 tvg-id="TCM.mx" group-title="Channels",MX: TCM
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/262
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Channels",MX: Espn 3
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/264
+#EXTINF:0 tvg-id="ESPN.mx" group-title="Channels",MX: ESPN
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/265
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Channels",MX: Espn 2
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/266
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: MTV Live
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/271
+#EXTINF:0 tvg-id="VH1.mx" group-title="Channels",MX: VH1
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/273
+#EXTINF:0 tvg-id="MTV.mx" group-title="Channels",MX: MTV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/275
+#EXTINF:0 tvg-id="ElGourmet.mx" group-title="Channels",MX: El Gourmet
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/281
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: Mexiquice
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/282
+#EXTINF:0 tvg-id="NatGeo.mx" group-title="Channels",MX: NAT GEO
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/284
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: Fuel TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/296
+#EXTINF:0 tvg-id="ext" group-title="Channels",LATINO: ECUAVISA INTERNACIONAL
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/526
+#EXTINF:0 tvg-id="ext" group-title="Channels",LATINO: SUR PERU
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/527
+#EXTINF:0 tvg-id="ext" group-title="Channels",LATINO: CARACOL INTERNACIONAL
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/528
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Channels",AR: FOX SPORTS
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/567
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Channels",AR: FOX SPORTS 2
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/568
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Channels",AR: FOX SPORTS 3
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/569
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: FOXSP PREMIUM
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/570
+#EXTINF:0 tvg-id="tnt" group-title="Channels",AR: TNT
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/581
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Channels",AR: ESPN
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/585
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Channels",AR: ESPN 2
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/586
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Channels",AR: ESPN 3
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/587
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Channels",AR: CINECANAL
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/590
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: CNN EN ESPANIOL
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/593
+#EXTINF:0 tvg-id="mgm-int" group-title="Channels",AR: AMC
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/605
+#EXTINF:0 tvg-id="DisneyJr.blt" group-title="Channels",AR: DISNEY JUNIOR
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/607
+#EXTINF:0 tvg-id="mtv-rus" group-title="Channels",AR: MTV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/617
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX : Las Estrellas
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1156
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX: AZTECA UNO
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65081
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: 5RTV SANTA FE
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65785
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: 5TV CORRIENTES
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65786
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: 9 MULTIVISION HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65787
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: CANAL 10 GENERAL ROCA
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65788
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: CANAL 10 RIO NEGRO
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65789
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: CANAL 17 MILENIUM SALTA
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65790
+#EXTINF:0 tvg-id="26TV.ar" group-title="Channels",AR: CANAL 26 FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65791
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: CANAL PROVINCIAL SAN MIGUEL
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65793
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: CHACRA TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65794
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: FENIX TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65798
+#EXTINF:0 tvg-id="GarageTV.es" group-title="Channels",AR: GARAGE TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65799
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: LA 90 FM
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65800
+#EXTINF:0 tvg-id="NETtv.svn" group-title="Channels",AR: NET TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65802
+#EXTINF:0 tvg-id="Telemax.ar" group-title="Channels",AR: TELEMAX
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65805
+#EXTINF:0 tvg-id="TyCSports.ar" group-title="Channels",AR: TYC SPORTS
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65810
+#EXTINF:0 tvg-id="Telefe.ar" group-title="Channels",AR: TELEFE
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65811
+#EXTINF:0 tvg-id="El13HD.ar" group-title="Channels",AR: EL TRECE
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65812
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO: ESPN 2 FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65813
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO: RCN FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65816
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO: Tele Caribe HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65817
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO: Tvgro
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65818
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO: CANAL UNO
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65820
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO: CARACOL INTERNACIONAL HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65823
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO: CARACOL HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65824
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO: RCN NACIONAL HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65825
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO: TELEANTIOQUIA HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65828
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO: CALI TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65830
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO: SENAL COLOMBIA
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65833
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO: LA KALLE HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65835
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO: CANAL TRO HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65836
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO: RCN NOVELAS
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65838
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO: Win Sports + FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65839
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO: Caracol
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65845
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO: Telecaribe Deportes 2
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65850
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO: Telepacífico
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65851
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO: TV Gracia (720p)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65852
+#EXTINF:0 tvg-id="ext" group-title="Channels",CL: Antofagasta TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65855
+#EXTINF:0 tvg-id="ext" group-title="Channels",CL: Red Advenir
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65869
+#EXTINF:0 tvg-id="ext" group-title="Channels",CL: TV5 Linares
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65873
+#EXTINF:0 tvg-id="ext" group-title="Channels",CL: CANAL  TVN
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65880
+#EXTINF:0 tvg-id="ext" group-title="Channels",CL: Chile Visión
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65883
+#EXTINF:0 tvg-id="ext" group-title="Channels",BO: TVU
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65885
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE: PANAMERICANA HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65888
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE: CANAL N
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65889
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE: TV PERÚ
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65891
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE: AMERICA TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65892
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE: ATV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65894
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE: TV PERÚ NOTICIAS
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65895
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE: ATV PLUS
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65897
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE: EXITOSA
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65899
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE: Willax
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65900
+#EXTINF:0 tvg-id="ext" group-title="Channels",PR: WAPA TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/63833
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",-TV BR-
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/-TVBRASIL-
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SBT RJ HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/907
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SBT SP HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/935
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO TV RIO SUL HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/958
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ZOOMOO HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/963
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: WOOHOO HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/964
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: WARNER CHANNEL HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/965
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: VIVA HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/966
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: VH1 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/967
+#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",UNIVERSAL CHANNEL HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/968
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TOONCAST HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/969
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TNT SERIES HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/970
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TNT HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/971
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TELECINE TOUCH HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/972
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TELECINE PREMIUM HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/973
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TELECINE PIPOCA HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/974
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TELECINE FUN HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/975
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TELECINE CULT HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/976
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TELECINE ACTION HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/977
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SYFY HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/978
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: STUDIO UNIVERSAL HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/979
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SPORTV HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/980
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SPORTV 3 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/981
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SPORTV 2 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/982
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SPACE HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/983
+#EXTINF:0 tvg-id="Redetv.br" group-title="Channels",BR: REDE TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/988
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: RECORD SP HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/989
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: RECORD RJ HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/990
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: RECORD NEWS HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/992
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PREMIERE CLUBES HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/994
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PREMIERE 5 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/998
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PREMIERE 4 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1000
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PREMIERE 3 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1002
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PREMIERE 2 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1004
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PARAMOUNT CHANNEL HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1006
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: OFF HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1007
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: NICKELODEON HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1008
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: NICK JR HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1009
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: NATIONAL GEOGRAPHIC HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1010
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: NATGEO WILD HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1011
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: MULTISHOW HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1013
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: MTV HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1015
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: MEGAPIX HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1016
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: LIFETIME HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1020
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ID - INVESTIGACAO DISCOVERY HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1021
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HISTORY CHANNEL HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1022
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO SIGNATURE HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1023
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO PLUS HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1024
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1025
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO FAMILY HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1026
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO 2 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1027
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: H2 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1028
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GNT HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1029
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOOB HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1030
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBOSAT HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1031
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO SP HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1032
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO NEWS HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1034
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FX HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1037
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FOX SPORTS HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1038
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FOX SPORTS 2 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1039
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FOX HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1043
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FOOD NETWORK HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1044
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FISH TV HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1045
+#EXTINF:0 tvg-id="Espn.br" group-title="Channels",BR: ESPN HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1046
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN BRASIL HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1047
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN 2 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1048
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: E! HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1049
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISNEY CHANNEL HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1052
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY WORLD HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1053
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY TURBO HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1054
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY TLC HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1055
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY THEATER HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1056
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY SCIENCE HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1057
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY KIDS HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1058
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY HOME & HEALTH HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1059
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY CHANNEL
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1061
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: CULTURA HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1064
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: COMEDY CENTRAL HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1065
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: COMBATE HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1066
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: CINEMAX HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1067
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: CARTOON NETWORK HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1068
+#EXTINF:0 tvg-id="Boomerang.br" group-title="Channels",BR: BOOMERANG
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1069
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: BIS HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1070
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: BAND SPORTS HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1071
+#EXTINF:0 tvg-id="ext" group-title="Channels",BAND NEWS HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1073
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: BABY TV HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1074
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: AXN HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1075
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ARTE 1 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1076
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ANIMAL PLANET HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1077
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: AMC HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1078
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: A&E HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1079
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO RJ FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64822
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PARAMOUNT CHANNEL
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64843
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PREMIERE 6 FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64848
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Brasilia
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65617
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",-TV UK-
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/-TVUK-
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Sky One
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/35018
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",Sky Sports Main Event
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/35029
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Arena UHD UK*
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/35048
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP BT SPORT 1 UHD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147254
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP BT SPORT 2 UHD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147255
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP BT SPORT 3 UHD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147256
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",UK : BT Sport 2 SD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147264
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Channels",UK : BT Sport 3 SD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147265
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Channels",UK : BT Sport ESPN HD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147266
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK : BT Sport ESPN SD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147267
+#EXTINF:0 tvg-id="Eurosport1.uk" group-title="Channels",UK : Eurosport 1 FHD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147269
+#EXTINF:0 tvg-id="Eurosport1.uk" group-title="Channels",UK : Eurosport 1 HD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147270
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Channels",UK : Eurosport 2 FHD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147271
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Channels",UK : Eurosport 2 HD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147272
+#EXTINF:0 tvg-id="FreeSports.uk" group-title="Channels",UK: FREESPORTS
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147273
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: LIVERPOOL FC HD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147274
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: MAN UNITED TV
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147275
+#EXTINF:0 tvg-id="RacingUK.uk" group-title="Channels",UK: Racing UK FHD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147276
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK : Premier Sports 1 HD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147277
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK : Premier Sports 2 HD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147278
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Channels",UK: SKY SPORTS ACTION HD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147279
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Channels",UK: SKY SPORTS ARENA HD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147280
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Channels",UK: SKY SPORTS CRICKET FHD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147282
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",UK: SKY SPORTS F1 HD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147283
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Channels",UK: SKY SPORTS FOOTBALL FHD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147284
+#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="Channels",UK: SKY SPORTS GOLF HD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147285
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",UK: SKY SPORTS MAIN EVENT HD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147286
+#EXTINF:0 tvg-id="SkySpMix.uk" group-title="Channels",UK: Sky Sports Mix FHD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147287
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",UK: SKY SPORTS NEWS HD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147288
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY SPORTS RACING
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147290
+
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",UK: BT SPORT 1 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1388
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",UK: BT SPORT 2 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1389
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Channels",UK: BT SPORT 3 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1390
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Channels",UK: BT SPORT ESPN
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1391
+#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="Channels",UK: SKY SP GOLF HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1394
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",UK: SKY SP F1 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1401
+#EXTINF:0 tvg-id="Eurosport1.uk" group-title="Channels",UK: EUROSPORTS 1 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1402
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Channels",UK: EUROSPORTS 2 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1403
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: PREMIER SPORTS 2 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1405
+#EXTINF:0 tvg-id="BoxNationHD.uk" group-title="Channels",UK: BOX NATION HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1406
+#EXTINF:0 tvg-id="RacingUK.uk" group-title="Channels",UK: RACING UK HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1408
+#EXTINF:0 tvg-id="MUTV.uk" group-title="Channels",UK: MUTV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1409
+#EXTINF:0 tvg-id="LiverpoolFCTV.uk" group-title="Channels",UK: LFC
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1411
+#EXTINF:0 tvg-id="Alibi.uk" group-title="Channels",UK: ALIBI FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1427
+#EXTINF:0 tvg-id="AMC.uk" group-title="Channels",UK: AMC
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1428
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",UK: BBC ONE FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1430
+#EXTINF:0 tvg-id="Channel5.uk" group-title="Channels",UK: CHANNEL 5 FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1436
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",UK: COMEDY CENTRAL
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1437
+#EXTINF:0 tvg-id="Dave.uk" group-title="Channels",UK: DAVE FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1438
+#EXTINF:0 tvg-id="DiscoveryHD.uk" group-title="Channels",UK: DISCOVERY FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1439
+#EXTINF:0 tvg-id="Discovery.uk" group-title="Channels",UK: DISCOVERY
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1440
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="Channels",UK: DISCOVERY SCIENCE
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1441
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Channels",UK: DISCOVERY TURBO
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1443
+#EXTINF:0 tvg-id="GOLD.uk" group-title="Channels",UK: GOLD FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1447
+#EXTINF:0 tvg-id="History.uk" group-title="Channels",UK: HISTORY
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1448
+#EXTINF:0 tvg-id="Investigation.uk" group-title="Channels",UK: INVESTIGATION DISCOVERY HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1449
+#EXTINF:0 tvg-id="ITV1London.uk" group-title="Channels",UK: ITV1 FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1450
+#EXTINF:0 tvg-id="ITV2.uk" group-title="Channels",UK: ITV2
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1451
+#EXTINF:0 tvg-id="ITV3.uk" group-title="Channels",UK: ITV3
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1452
+#EXTINF:0 tvg-id="ITV4.uk" group-title="Channels",UK: ITV4
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1453
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Channels",UK: NATIONAL GEOGRAPHIC HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1454
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: PREMIER SPORTS 1 FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1455
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY CI ACTION FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1459
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY CI COMEDY FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1460
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY CI DISNEY FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1461
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY CI DRAMA & ROMANCE FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1462
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY CI FAMILY FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1463
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY CI HITS FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1464
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY CI PREMIER FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1465
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY CI SCI-FI & HORROR FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1466
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY CI SELECT FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1467
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY CI THRILLER FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1468
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Channels",UK: SKY SP ACTION FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1469
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Channels",UK: SKY SP ARENA FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1470
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Channels",UK: SKY SP CRICKET FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1471
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Channels",UK: SKY SP FOOTBALL FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1473
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY SP MAIN EVENT FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1475
+#EXTINF:0 tvg-id="SkySpMix.uk" group-title="Channels",UK: SKY SP MIX FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1476
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY SP NEWS FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1477
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY SP PREMIER LEAGUE FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1478
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY SP RACING FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1479
+#EXTINF:0 tvg-id="Sky1.uk" group-title="Channels",UK: SKY ONE FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1480
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY WITNESS FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1482
+#EXTINF:0 tvg-id="TCM.uk" group-title="Channels",UK: TCM
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1483
+#EXTINF:0 tvg-id="TLC.uk" group-title="Channels",UK: TLC FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1484
+#EXTINF:0 tvg-id="BBC2.uk" group-title="Channels",UK: BBC Two HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/2017
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",UK: SYFY
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3305
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Channels",UK: ANIMAL PLANET
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3306
+#EXTINF:0 tvg-id="CBBC.uk" group-title="Channels",UK: CBBC HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3528
+#EXTINF:0 tvg-id="Channel4.uk" group-title="Channels",UK: Channel 4 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3539
+#EXTINF:0 tvg-id="Eden.uk" group-title="Channels",UK: EDEN
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64925
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: PDC DARTS (Live Events Only)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66473
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: PDC DARTS 2 (Live Events Only)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66474
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Great! Movies Christmas
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70445
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT SPORT 4
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70923
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT SPORT 5 (EVENT ONLY)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70924
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT SPORT 6 (EVENT ONLY)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70925
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT SPORT 7 (EVENT ONLY)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70926
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT SPORT 8 (EVENT ONLY)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70927
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT SPORT 9 (EVENT ONLY)
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70928
+#EXTINF:0 tvg-id="BBCRedButton5.uk" group-title="Channels",UK: BBC RED BUTTON 5
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/67303
