@@ -2465,7 +2465,7 @@ http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70928
 #EXTINF:0 tvg-id="BBCRedButton5.uk" group-title="Channels",UK: BBC RED BUTTON 5
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/67303
 
-#EXTINF:0 tvg-id="BBCRedButton5.uk" group-title="Channels",CHANNEL 1
-http://sdmx.us:25461/live/belfast/belfast/2095412.ts
-#EXTINF:0 tvg-id="BBCRedButton5.uk" group-title="Channels",CHANNEL 2
-http://sdmx.us:25461/live/belfast/belfast/2123478.ts
+#EXTINF:0 tvg-id="ext" group-title="• CINE",CINE - HBO PLUS +
+http://tv.nousiptv.com:8080/0705/7025390705/4003
+#EXTINF:0 tvg-id="ext" group-title="• CINE",CINE - HBO FAMILY
+http://tv.nousiptv.com:8080/0705/7025390705/4017
