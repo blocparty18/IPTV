@@ -673,6 +673,9 @@ http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147583.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: PAC-12 WASHINGTON | HD
 http://un-pluggedtv.net:8080/live/silenttrix/bSeG3nn9k2/147584.ts
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",-TV USA- (PAGE 2)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481-TVUSA-
+
 #EXTINF:0 tvg-id="USANetwork.us" group-title="Channels",US: USA Network
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1
 #EXTINF:0 tvg-id="Syfy.us" group-title="Channels",US: SYFY
@@ -1466,6 +1469,318 @@ http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70699
 #EXTINF:0 tvg-id="ext" group-title="Channels",MLS 14
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70700
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",-TV USA- (PAGE 3)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481-TVUSA-
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: A&E
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/149136
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Adult Swim
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135310
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Al Jazeera
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/149114
+#EXTINF:0 tvg-id="AMC.us" group-title="Channels",US: AMC
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/191692
+#EXTINF:0 tvg-id="AmericanHeroes.us" group-title="Channels",US: American Heroes
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32229
+#EXTINF:0 tvg-id="AnimalPlanet.us" group-title="Channels",US: Animal Planet
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/149198
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Antenna TV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32231
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: AWE
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/149143
+#EXTINF:0 tvg-id="AXSTV.us" group-title="Channels",US: AXS TV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/191720
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Baby TV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208670
+#EXTINF:0 tvg-id="BBCAmerica.us" group-title="Channels",US: BBC America
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32237
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Bet East
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/15861
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Bet Her
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32214
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Bet Jams
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32216
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Bet Soul
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32217
+#EXTINF:0 tvg-id="BTN.us" group-title="Channels",US: Big Ten Network
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32240
+#EXTINF:0 tvg-id="BloombergTV.us" group-title="Channels",US: Bloomberg
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208671
+#EXTINF:0 tvg-id="Boomerang.us" group-title="Channels",US: Boomerang
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32158
+#EXTINF:0 tvg-id="Bravo.us" group-title="Channels",US: Bravo
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208672
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Buzzr
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208673
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: C-Span
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/205817
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cartoon Network East
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/159863
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS News
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/68035
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cheddar News
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208676
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CMC
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208679
+#EXTINF:0 tvg-id="CMTHD.us" group-title="Channels",US: CMT HD
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32204
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CNBC World
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208680
+#EXTINF:0 tvg-id="CNN.us" group-title="Channels",US: CNN
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/69284
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Comedy Сentral
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32195
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Comet TV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208681
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CON TV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208682
+#EXTINF:0 tvg-id="CookingChannel.us" group-title="Channels",US: Cooking Channel
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208683
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Court TV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208684
+#EXTINF:0 tvg-id="WDCWWashingtonDCCW.us" group-title="Channels",US: CW
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/191732
+#EXTINF:0 tvg-id="DestinationAmerica.us" group-title="Channels",US: Destination America
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208686
+#EXTINF:0 tvg-id="Discovery.us" group-title="Channels",US: Discovery Channel
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32344
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Discovery Family
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/159811
+#EXTINF:0 tvg-id="DiscoveryLife.us" group-title="Channels",US: Discovery Life
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/68043
+#EXTINF:0 tvg-id="Science.us" group-title="Channels",US: Discovery Science
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32348
+#EXTINF:0 tvg-id="DisneyChannelHD.us" group-title="Channels",US: Disney Channel HD
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32162
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Disney JR East
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32164
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Disney XD West
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32163
+#EXTINF:0 tvg-id="E.us" group-title="Channels",US: E! Entertainment
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208688
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Eleven Sports Network
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/205823
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Epix
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208689
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Epix 2
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208690
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Epix Drive In
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208691
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Epix Hits
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32263
+#EXTINF:0 tvg-id="FoodNetwork.us" group-title="Channels",US: Food Network
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208694
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Freeform Channel
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32208
+#EXTINF:0 tvg-id="FuseHD.us" group-title="Channels",US: Fuse
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208697
+#EXTINF:0 tvg-id="FX.us" group-title="Channels",US: FX
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208698
+#EXTINF:0 tvg-id="FXX.us" group-title="Channels",US: FXX
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32309
+#EXTINF:0 tvg-id="FYI.us" group-title="Channels",US: FYI
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32310
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Game Show Network
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208699
+#EXTINF:0 tvg-id="GreatAmericanCountry.us" group-title="Channels",US: Great American Country
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208702
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Grit TV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/191706
+#EXTINF:0 tvg-id="H2.us" group-title="Channels",US: H2
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208703
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Hallmark Drama
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32127
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Hallmark Movies Mysteries
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32128
+#EXTINF:0 tvg-id="HBO2East.us" group-title="Channels",US: HBO 2
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32130
+#EXTINF:0 tvg-id="HBOComedyHD.us" group-title="Channels",US: HBO Comedy
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32132
+#EXTINF:0 tvg-id="HBOEast.us" group-title="Channels",US: HBO
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32129
+#EXTINF:0 tvg-id="HBOFamilyEast.us" group-title="Channels",US: HBO Family
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32135
+#EXTINF:0 tvg-id="HBOLatino.us" group-title="Channels",US: HBO Latino
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16012
+#EXTINF:0 tvg-id="HBOSignature.us" group-title="Channels",US: HBO Signature
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/27728
+#EXTINF:0 tvg-id="HBOZoneHD.us" group-title="Channels",US: HBO Zone
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/65111
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Heroes And Icons
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208704
+#EXTINF:0 tvg-id="HGTV.us" group-title="Channels",US: HGTV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32315
+#EXTINF:0 tvg-id="History.us" group-title="Channels",US: History Channel
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208705
+#EXTINF:0 tvg-id="HLN.us" group-title="Channels",US: HLN
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32317
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Discovery Investigation
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/159853
+#EXTINF:0 tvg-id="IFC.us" group-title="Channels",US: IFC
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208708
+#EXTINF:0 tvg-id="IONTelevision.us" group-title="Channels",US: Ion TV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208711
+#EXTINF:0 tvg-id="Lifetime.us" group-title="Channels",US: LifeTime
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208714
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Lifetime Movie Network
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/159794
+#EXTINF:0 tvg-id="Logo.us" group-title="Channels",US: Logo
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208715
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Longhorn Network
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/28405
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Me TV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208718
+#EXTINF:0 tvg-id="MLBNetwork.us" group-title="Channels",US: MLB Network
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/28476
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Motor Trend
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32332
+#EXTINF:0 tvg-id="MSNBCHD.us" group-title="Channels",US: MSNBC HD
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32201
+#EXTINF:0 tvg-id="MTV.us" group-title="Channels",US: MTV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/191700
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MTV 2
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/191701
+#EXTINF:0 tvg-id="MTVClassic.us" group-title="Channels",US: MTV Classic
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/149153
+#EXTINF:0 tvg-id="NationalGeographic.us" group-title="Channels",US: National Geographic
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/159745
+#EXTINF:0 tvg-id="NatGeoWILD.us" group-title="Channels",US: Nat Geo Wild
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32340
+#EXTINF:0 tvg-id="NBCSportsNetwork.us" group-title="Channels",US: NBCSN
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208720
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NESN Plus
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/68062
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Newsmax TV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208725
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NewsY
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208727
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NFL Network
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/43496
+#EXTINF:0 tvg-id="NickJr.us" group-title="Channels",US: NICK JR
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/159756
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Nick Music
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/159852
+#EXTINF:0 tvg-id="NickelodeonEast.us" group-title="Channels",US: Nickelodeon
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32166
+#EXTINF:0 tvg-id="Nicktoons.us" group-title="Channels",US: Nicktoons
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32167
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: One America News
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208729
+#EXTINF:0 tvg-id="OutdoorChannel.us" group-title="Channels",US: Outdoor Channel HD
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32364
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Outside TV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208730
+#EXTINF:0 tvg-id="Ovation.us" group-title="Channels",US: Ovation
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208731
+#EXTINF:0 tvg-id="OWNHD.us" group-title="Channels",US: OWN HD
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32367
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PAC-12 Arizona
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/20923
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PAC-12 Bay Area
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/18007
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PAC-12 Los Angeles
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/17899
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PAC-12 Mountain
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/17894
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PAC-12 Network
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/17528
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PAC-12 Oregon
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16331
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PAC-12 Washington
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16315
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Paramount Network
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208732
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PBS Kids
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/43497
+#EXTINF:0 tvg-id="POP.us" group-title="Channels",US: POP
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32377
+#EXTINF:0 tvg-id="PursuitChannelHD.us" group-title="Channels",US: Pursuit Channel
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208736
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Revolt
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208741
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: RFD TV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208742
+#EXTINF:0 tvg-id="SECNetwork.us" group-title="Channels",US: SEC Network
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208744
+#EXTINF:0 tvg-id="ShowtimeW.us" group-title="Channels",US: Showtime West
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135311
+#EXTINF:0 tvg-id="SHOWTIME2.us" group-title="Channels",US: Showtime 2
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135312
+#EXTINF:0 tvg-id="ShowtimeExtreme.us" group-title="Channels",US: Showtime Extreme
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32153
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Showtime Family Zone
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/158682
+#EXTINF:0 tvg-id="ShowtimeNextHD.us" group-title="Channels",US: Showtime Next
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32467
+#EXTINF:0 tvg-id="ShowtimeShowcase.us" group-title="Channels",US: Showtime Showcase
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32468
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Showtime Women
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/159873
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Smithsonian
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208745
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Sportsnet NYC
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32390
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Stadium HD
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16263
+#EXTINF:0 tvg-id="StarzCinemaHD.us" group-title="Channels",US: Starz Cinema
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32137
+#EXTINF:0 tvg-id="StarzComedyHD.us" group-title="Channels",US: Starz Comedy
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32138
+#EXTINF:0 tvg-id="StarzEast.us" group-title="Channels",US: Starz East
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/39453
+#EXTINF:0 tvg-id="StarzEdge.us" group-title="Channels",US: Starz Edge
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/79697
+#EXTINF:0 tvg-id="StarzEncore.us" group-title="Channels",US: Starz Encore
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32149
+#EXTINF:0 tvg-id="StarzEncoreAction.us" group-title="Channels",US: Starz Encore Action
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/159925
+#EXTINF:0 tvg-id="StarzEncoreClassic.us" group-title="Channels",US: Starz Encore Classic
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32141
+#EXTINF:0 tvg-id="StarzEncoreFamily.us" group-title="Channels",US: Starz Encore Family
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/159766
+#EXTINF:0 tvg-id="StarzEncoreSuspense.us" group-title="Channels",US: Starz Encore Suspense
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32143
+#EXTINF:0 tvg-id="StarzEncoreWesterns.us" group-title="Channels",US: Starz Encore Westerns
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32140
+#EXTINF:0 tvg-id="StarzHDWest.us" group-title="Channels",US: Starz West
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/159773
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Sundance TV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/205831
+#EXTINF:0 tvg-id="SyfyHD.us" group-title="Channels",US: SyFy HD
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32402
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Tastemade
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/205832
+#EXTINF:0 tvg-id="TBSHD.us" group-title="Channels",US: TBS
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/205834
+#EXTINF:0 tvg-id="TCM.us" group-title="Channels",US: TCM
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/205835
+#EXTINF:0 tvg-id="Velocity.us" group-title="Channels",US: Discovery Velocity
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/205836
+#EXTINF:0 tvg-id="TLC.us" group-title="Channels",US: TLC
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/205837
+#EXTINF:0 tvg-id="TNT.us" group-title="Channels",US: TNT
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/205839
+#EXTINF:0 tvg-id="TravelChannel.us" group-title="Channels",US: Travel Channel
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32349
+#EXTINF:0 tvg-id="truTV.us" group-title="Channels",US: Tru TV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/205840
+#EXTINF:0 tvg-id="TVLand.us" group-title="Channels",US: TV Land
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32412
+#EXTINF:0 tvg-id="TVG.us" group-title="Channels",US: TVG
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/205842
+#EXTINF:0 tvg-id="UniMas.us" group-title="Channels",US: Unimas
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/149132
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Universal Kids
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32168
+#EXTINF:0 tvg-id="VH1.us" group-title="Channels",US: VH1
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/205843
+#EXTINF:0 tvg-id="VicelandHD.us" group-title="Channels",US: Viceland HD
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32207
+#EXTINF:0 tvg-id="WEtv.us" group-title="Channels",US: WE TV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/205844
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Weather Channel
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208746
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",-TV CA-
 http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/-TVCANADA-
 
@@ -1739,6 +2054,108 @@ http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65993
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65994
 #EXTINF:0 tvg-id="SportsnetWorld.ca" group-title="Channels",CA: Sportsnet World
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65995
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",-TV CA- (PAGE 2)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/-TVCANADA-
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: A&E
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77855
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: ABC HD
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32053
+#EXTINF:0 tvg-id="ABCSparksHD.ca" group-title="Channels",CA: ABC Spark
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31959
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: AMC
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77854
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Animal Planet
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77853
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CMT
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77848
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Cooking Channel
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77847
+#EXTINF:0 tvg-id="CottageLife.ca" group-title="Channels",CA: Cottage Life
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31985
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CP24
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31986
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: DeJaView
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77845
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Discovery Science
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32006
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Disney XD
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135307
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Dtour
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77842
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: E! HD
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135308
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Family Jr
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77841
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Food Network
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32009
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: FR Casa
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31952
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: FR Disney Channel
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135353
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: FR Music Plus
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135359
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: FR Series+
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/31957
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: FR Z Tele
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135368
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: FR Zeste
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/113934
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: FX HD
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32037
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: FXX
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135313
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: HBO
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32011
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: HBO 2
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77837
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: ICI Télé Montreal
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135356
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: LifeTime
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77835
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: HGTV Canada
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32012
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: HLN
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135324
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: NBA TV Canada
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32052
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: OLN
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77832
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Omni 1
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32022
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Omni 2
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32051
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Paramount Network
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135336
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Showcase
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/77831
+#EXTINF:0 tvg-id="Slice.ca" group-title="Channels",CA: Slice
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32026
+#EXTINF:0 tvg-id="SportsNetEST.ca" group-title="Channels",CA: Sportsnet East
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32040
+#EXTINF:0 tvg-id="TOONA.ca" group-title="Channels",CA: Teletoon
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32027
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: TLC
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135340
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: TSN 1
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32046
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: TSN 3
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32048
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: TSN 4
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32049
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: TSN 5
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32480
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: TVA Montréal
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135289
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: TVO Kids
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32030
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: TSN 2
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32047
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: WGN
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135348
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Yes TV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/135349
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",-TV LAT-
 http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/-TVLATINO-
@@ -2257,6 +2674,9 @@ http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64843
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/64848
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Brasilia
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/65617
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",-TV BR- (PAGE 2)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/-TVBRASIL-
 
 #EXTINF:0 tvg-id="WarnerChannel.mx" group-title="Channels",Warner Channel HD+
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16765
@@ -3181,6 +3601,9 @@ http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147288
 #EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY SPORTS RACING
 http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147290
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",-TV UK- (PAGE 2)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/-TVUK-
+
 #EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",UK: BT SPORT 1 HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1388
 #EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",UK: BT SPORT 2 HD
@@ -3323,6 +3746,182 @@ http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70927
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/70928
 #EXTINF:0 tvg-id="BBCRedButton5.uk" group-title="Channels",UK: BBC RED BUTTON 5
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/67303
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",-TV UK- (PAGE 3)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/-TVUK-
+
+#EXTINF:0 tvg-id="4Seven.uk" group-title="Channels",UK: 4Seven
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16125
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: 5 Select
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16131
+#EXTINF:0 tvg-id="5star.uk" group-title="Channels",UK: 5 Star
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16172
+#EXTINF:0 tvg-id="AMC.uk" group-title="Channels",UK: AMC
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16178
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Channels",UK: Animal Planet
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16277
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Asia Sony TV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104074
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",UK: BBC 1
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16133
+#EXTINF:0 tvg-id="BBC2.uk" group-title="Channels",UK: BBC 2
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16135
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC 3
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16137
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC CBeebies
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16204
+#EXTINF:0 tvg-id="BBCNews.nws" group-title="Channels",UK: BBC News
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104180
+#EXTINF:0 tvg-id="BBCWorldNews.nws" group-title="Channels",UK: BBC World News
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16301
+#EXTINF:0 tvg-id="BLAZE.uk" group-title="Channels",UK: Blaze
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16271
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Boomerang TV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16195
+#EXTINF:0 tvg-id="Cartoonito.uk" group-title="Channels",UK: Cartoonito
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16203
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: CBS Justice
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16191
+#EXTINF:0 tvg-id="Channel4.uk" group-title="Channels",UK: Channel 4
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104009
+#EXTINF:0 tvg-id="Channel5.uk" group-title="Channels",UK: Channel 5
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16118
+#EXTINF:0 tvg-id="ChelseaTV.uk" group-title="Channels",UK: Chelsea TV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16246
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",UK: Comedy Central
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104188
+#EXTINF:0 tvg-id="ComedyCentralExtra.uk" group-title="Channels",UK: Comedy Central Extra
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104187
+#EXTINF:0 tvg-id="Discovery.uk" group-title="Channels",UK: Discovery Channel
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104193
+#EXTINF:0 tvg-id="DiscoveryHistory.uk" group-title="Channels",UK: Discovery History
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16289
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="Channels",UK: Discovery Science
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16284
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Channels",UK: Discovery Turbo
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16285
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",UK: Disney Junior
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104147
+#EXTINF:0 tvg-id="E4.uk" group-title="Channels",UK: E4
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16126
+#EXTINF:0 tvg-id="Euronews.uk" group-title="Channels",UK: Euronews
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16303
+#EXTINF:0 tvg-id="Film4.uk" group-title="Channels",UK: Film 4
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104155
+#EXTINF:0 tvg-id="HomeandHealth.uk" group-title="Channels",UK: Home And Health
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104161
+#EXTINF:0 tvg-id="ITV1London.uk" group-title="Channels",UK: ITV 1
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104026
+#EXTINF:0 tvg-id="ITV2.uk" group-title="Channels",UK: ITV 2
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104028
+#EXTINF:0 tvg-id="ITV3.uk" group-title="Channels",UK: ITV 3
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16111
+#EXTINF:0 tvg-id="ITV4.uk" group-title="Channels",UK: ITV 4
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/35156
+#EXTINF:0 tvg-id="ITVBe.uk" group-title="Channels",UK: ITV BE
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16115
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="Channels",UK: LifeTime
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16270
+#EXTINF:0 tvg-id="More4.uk" group-title="Channels",UK: More 4
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16128
+#EXTINF:0 tvg-id="MTVClassic.uk" group-title="Channels",UK: MTV Classic
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16320
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Channels",UK: National Geographic
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16280
+#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="Channels",UK: Nat Geo Wild
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16281
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="Channels",UK: Nick Jr
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16199
+#EXTINF:0 tvg-id="Quest.uk" group-title="Channels",UK: Quest
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16132
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Really TV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16182
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Red Bull TV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16249
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",UK: SyFy
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104238
+#EXTINF:0 tvg-id="tinypop.uk" group-title="Channels",UK: Tiny Pop
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16205
+#EXTINF:0 tvg-id="TruTV.uk" group-title="Channels",UK: Tru TV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16130
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Watch TV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16184
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",-TV ITA-
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/-TVITALIA-
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",IT: 20 Mediaset HD
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14713
+#EXTINF:0 tvg-id="Caccia.it" group-title="Channels",IT: Caccia e Pesca
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/69554
+#EXTINF:0 tvg-id="Canale5.it" group-title="Channels",IT: Canale 5
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14601
+#EXTINF:0 tvg-id="Cartoonito.it" group-title="Channels",IT: Cartoonito
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14851
+#EXTINF:0 tvg-id="Cielo.it" group-title="Channels",IT: Cielo
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14710
+#EXTINF:0 tvg-id="Discovery.it" group-title="Channels",IT: Discovery Channel
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/43909
+#EXTINF:0 tvg-id="DMAX.it" group-title="Channels",IT: Dmax
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14826
+#EXTINF:0 tvg-id="Eurosport1.it" group-title="Channels",IT: Eurosport 1 HD
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/37657
+#EXTINF:0 tvg-id="Fox.it" group-title="Channels",IT: Fox HD
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14687
+#EXTINF:0 tvg-id="Giallo.it" group-title="Channels",IT: Giallo
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14722
+#EXTINF:0 tvg-id="ext" group-title="Channels",IT: Inter TV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/156896
+#EXTINF:0 tvg-id="LA5.it" group-title="Channels",IT: La 5
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14715
+#EXTINF:0 tvg-id="MediasetExtra.it" group-title="Channels",IT: Mediaset Extra
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14711
+#EXTINF:0 tvg-id="ext" group-title="Channels",IT: Mediaset Italia 1
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14602
+#EXTINF:0 tvg-id="Italia2.it" group-title="Channels",IT: Mediaset Italia 2
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14712
+#EXTINF:0 tvg-id="NatGeoWild.it" group-title="Channels",IT: Nat Geo Wild HD
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/37663
+#EXTINF:0 tvg-id="Rai1.it" group-title="Channels",IT: Rai 1
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14597
+#EXTINF:0 tvg-id="Rai2.it" group-title="Channels",IT: Rai 2
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14598
+#EXTINF:0 tvg-id="Rai3.it" group-title="Channels",IT: Rai 3
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14599
+#EXTINF:0 tvg-id="Rai4.it" group-title="Channels",IT: Rai 4
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14716
+#EXTINF:0 tvg-id="Rai5.it" group-title="Channels",IT: Rai 5
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14717
+#EXTINF:0 tvg-id="RaiGulp.it" group-title="Channels",IT: Rai Gulp
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14857
+#EXTINF:0 tvg-id="ext" group-title="Channels",IT: RAI Italia
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/17918
+#EXTINF:0 tvg-id="RaiMovie.it" group-title="Channels",IT: Rai Movie
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14719
+#EXTINF:0 tvg-id="RaiNews.it" group-title="Channels",IT: Rai News 24
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14861
+#EXTINF:0 tvg-id="RaiPremium.it" group-title="Channels",IT: Rai Premium
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/43914
+#EXTINF:0 tvg-id="RaiScuola.it" group-title="Channels",IT: Rai Scuola
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14720
+#EXTINF:0 tvg-id="ext" group-title="Channels",IT: Rai Sport 1 + HD
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/43942
+#EXTINF:0 tvg-id="RaiStoria.it" group-title="Channels",IT: Rai Storia
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14837
+#EXTINF:0 tvg-id="RaiYoyo.it" group-title="Channels",IT: Rai Yoyo
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14856
+#EXTINF:0 tvg-id="Rete4.it" group-title="Channels",IT: Rete 4
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14600
+#EXTINF:0 tvg-id="ext" group-title="Channels",IT: Primafila 10 4K
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/43921
+#EXTINF:0 tvg-id="SuperTennis.it" group-title="Channels",IT: Super Tennis
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14757
+#EXTINF:0 tvg-id="ext" group-title="Channels",IT: TG La 7
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14603
+#EXTINF:0 tvg-id="Tgcom24.it" group-title="Channels",IT: Tgcom 24
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14858
+#EXTINF:0 tvg-id="TopCrime.it" group-title="Channels",IT: Top Crime
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14707
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",-TV ADULT-
 http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/-TVXXX-
@@ -3548,10 +4147,3 @@ http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/38276
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/38278
 #EXTINF:0 tvg-id="ext" group-title="Channels",XXX SEXY HOT H.265
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/38280
-
-#EXTINF:0 tvg-id="Boomerang.us" group-title="Channels",US: Boomerang
-http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32158
-#EXTINF:0 tvg-id="Bravo.us" group-title="Channels",US: Bravo
-http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208672
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Buzzr
-http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208673
