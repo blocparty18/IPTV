@@ -68,8 +68,6 @@ http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/58514
 http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/58515
 #EXTINF:0 tvg-id="ext" group-title="Channels",USA - MSNBC HD
 http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/58523
-#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 07: Indianapolis Colts @ Tennessee Titans 6PM GMT/1PM ET
-http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/58531
 #EXTINF:0 tvg-id="ext" group-title="Channels",USA - NHL NETWORK
 http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/58533
 #EXTINF:0 tvg-id="ext" group-title="Channels",USA - NICKELODEON
@@ -946,6 +944,8 @@ http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69350
 http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69351
 #EXTINF:0 tvg-id="ext" group-title="Channels",NFL 05
 http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69352
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 07
+http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/58531
 #EXTINF:0 tvg-id="ext" group-title="Channels",NFL 08
 http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/68988
 #EXTINF:0 tvg-id="ext" group-title="Channels",MLB 16
@@ -1057,6 +1057,297 @@ http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/73113
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",-TV USA- (PAGE 2)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481-TVUSA-
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: A&E
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/149136
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Adult Swim
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/135310
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Al Jazeera
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/149114
+#EXTINF:0 tvg-id="AMC.us" group-title="Channels",US: AMC
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/191692
+#EXTINF:0 tvg-id="AmericanHeroes.us" group-title="Channels",US: American Heroes
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32229
+#EXTINF:0 tvg-id="AnimalPlanet.us" group-title="Channels",US: Animal Planet
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/149198
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Antenna TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32231
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: AWE
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/149143
+#EXTINF:0 tvg-id="AXSTV.us" group-title="Channels",US: AXS TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/191720
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Baby TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208670
+#EXTINF:0 tvg-id="BBCAmerica.us" group-title="Channels",US: BBC America
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32237
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Bet East
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/15861
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Bet Her
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32214
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Bet Jams
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32216
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Bet Soul
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32217
+#EXTINF:0 tvg-id="BTN.us" group-title="Channels",US: Big Ten Network
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32240
+#EXTINF:0 tvg-id="BloombergTV.us" group-title="Channels",US: Bloomberg
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208671
+#EXTINF:0 tvg-id="Boomerang.us" group-title="Channels",US: Boomerang
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32158
+#EXTINF:0 tvg-id="Bravo.us" group-title="Channels",US: Bravo
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208672
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Buzzr
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208673
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: C-Span
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/205817
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cartoon Network East
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/159863
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS News
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/68035
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cheddar News
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208676
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CMC
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208679
+#EXTINF:0 tvg-id="CMTHD.us" group-title="Channels",US: CMT HD
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32204
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CNBC World
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208680
+#EXTINF:0 tvg-id="CNN.us" group-title="Channels",US: CNN
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/69284
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Comedy Сentral
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32195
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Comet TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208681
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CON TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208682
+#EXTINF:0 tvg-id="CookingChannel.us" group-title="Channels",US: Cooking Channel
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208683
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Court TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208684
+#EXTINF:0 tvg-id="WDCWWashingtonDCCW.us" group-title="Channels",US: CW
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/191732
+#EXTINF:0 tvg-id="DestinationAmerica.us" group-title="Channels",US: Destination America
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208686
+#EXTINF:0 tvg-id="Discovery.us" group-title="Channels",US: Discovery Channel
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32344
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Discovery Family
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/159811
+#EXTINF:0 tvg-id="DiscoveryLife.us" group-title="Channels",US: Discovery Life
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/68043
+#EXTINF:0 tvg-id="Science.us" group-title="Channels",US: Discovery Science
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32348
+#EXTINF:0 tvg-id="DisneyChannelHD.us" group-title="Channels",US: Disney Channel HD
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32162
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Disney JR East
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32164
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Disney XD West
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32163
+#EXTINF:0 tvg-id="E.us" group-title="Channels",US: E! Entertainment
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208688
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Epix
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208689
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Epix 2
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208690
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Epix Drive In
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208691
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Epix Hits
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32263
+#EXTINF:0 tvg-id="FoodNetwork.us" group-title="Channels",US: Food Network
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208694
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Freeform Channel
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32208
+#EXTINF:0 tvg-id="FuseHD.us" group-title="Channels",US: Fuse
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208697
+#EXTINF:0 tvg-id="FX.us" group-title="Channels",US: FX
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208698
+#EXTINF:0 tvg-id="FXX.us" group-title="Channels",US: FXX
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32309
+#EXTINF:0 tvg-id="FYI.us" group-title="Channels",US: FYI
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32310
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Game Show Network
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208699
+#EXTINF:0 tvg-id="GreatAmericanCountry.us" group-title="Channels",US: Great American Country
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208702
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Grit TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/191706
+#EXTINF:0 tvg-id="H2.us" group-title="Channels",US: H2
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208703
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Hallmark Drama
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32127
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Hallmark Movies Mysteries
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32128
+#EXTINF:0 tvg-id="HBO2East.us" group-title="Channels",US: HBO 2
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32130
+#EXTINF:0 tvg-id="HBOComedyHD.us" group-title="Channels",US: HBO Comedy
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32132
+#EXTINF:0 tvg-id="HBOEast.us" group-title="Channels",US: HBO
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32129
+#EXTINF:0 tvg-id="HBOFamilyEast.us" group-title="Channels",US: HBO Family
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32135
+#EXTINF:0 tvg-id="HBOLatino.us" group-title="Channels",US: HBO Latino
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16012
+#EXTINF:0 tvg-id="HBOSignature.us" group-title="Channels",US: HBO Signature
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/27728
+#EXTINF:0 tvg-id="HBOZoneHD.us" group-title="Channels",US: HBO Zone
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/65111
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Heroes And Icons
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208704
+#EXTINF:0 tvg-id="HGTV.us" group-title="Channels",US: HGTV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32315
+#EXTINF:0 tvg-id="History.us" group-title="Channels",US: History Channel
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208705
+#EXTINF:0 tvg-id="HLN.us" group-title="Channels",US: HLN
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32317
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Discovery Investigation
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/159853
+#EXTINF:0 tvg-id="IFC.us" group-title="Channels",US: IFC
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208708
+#EXTINF:0 tvg-id="IONTelevision.us" group-title="Channels",US: Ion TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208711
+#EXTINF:0 tvg-id="Lifetime.us" group-title="Channels",US: LifeTime
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208714
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Lifetime Movie Network
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/159794
+#EXTINF:0 tvg-id="Logo.us" group-title="Channels",US: Logo
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208715
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Longhorn Network
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/28405
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Me TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208718
+#EXTINF:0 tvg-id="MLBNetwork.us" group-title="Channels",US: MLB Network
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/28476
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Motor Trend
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32332
+#EXTINF:0 tvg-id="MSNBCHD.us" group-title="Channels",US: MSNBC HD
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32201
+#EXTINF:0 tvg-id="MTV.us" group-title="Channels",US: MTV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/191700
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MTV 2
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/191701
+#EXTINF:0 tvg-id="MTVClassic.us" group-title="Channels",US: MTV Classic
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/149153
+#EXTINF:0 tvg-id="NationalGeographic.us" group-title="Channels",US: National Geographic
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/159745
+#EXTINF:0 tvg-id="NatGeoWILD.us" group-title="Channels",US: Nat Geo Wild
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32340
+#EXTINF:0 tvg-id="NBCSportsNetwork.us" group-title="Channels",US: NBCSN
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208720
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NESN Plus
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/68062
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Newsmax TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208725
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NewsY
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208727
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NFL Network
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/43496
+#EXTINF:0 tvg-id="NickJr.us" group-title="Channels",US: NICK JR
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/159756
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Nick Music
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/159852
+#EXTINF:0 tvg-id="NickelodeonEast.us" group-title="Channels",US: Nickelodeon
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32166
+#EXTINF:0 tvg-id="Nicktoons.us" group-title="Channels",US: Nicktoons
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32167
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: One America News
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208729
+#EXTINF:0 tvg-id="OutdoorChannel.us" group-title="Channels",US: Outdoor Channel HD
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32364
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Outside TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208730
+#EXTINF:0 tvg-id="Ovation.us" group-title="Channels",US: Ovation
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208731
+#EXTINF:0 tvg-id="OWNHD.us" group-title="Channels",US: OWN HD
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32367
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Paramount Network
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208732
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: PBS Kids
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/43497
+#EXTINF:0 tvg-id="POP.us" group-title="Channels",US: POP
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32377
+#EXTINF:0 tvg-id="PursuitChannelHD.us" group-title="Channels",US: Pursuit Channel
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208736
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Revolt
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208741
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: RFD TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208742
+#EXTINF:0 tvg-id="SECNetwork.us" group-title="Channels",US: SEC Network
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208744
+#EXTINF:0 tvg-id="ShowtimeW.us" group-title="Channels",US: Showtime West
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/135311
+#EXTINF:0 tvg-id="SHOWTIME2.us" group-title="Channels",US: Showtime 2
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/135312
+#EXTINF:0 tvg-id="ShowtimeExtreme.us" group-title="Channels",US: Showtime Extreme
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32153
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Showtime Family Zone
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/158682
+#EXTINF:0 tvg-id="ShowtimeNextHD.us" group-title="Channels",US: Showtime Next
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32467
+#EXTINF:0 tvg-id="ShowtimeShowcase.us" group-title="Channels",US: Showtime Showcase
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32468
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Showtime Women
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/159873
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Smithsonian
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208745
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Stadium HD
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16263
+#EXTINF:0 tvg-id="StarzCinemaHD.us" group-title="Channels",US: Starz Cinema
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32137
+#EXTINF:0 tvg-id="StarzComedyHD.us" group-title="Channels",US: Starz Comedy
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32138
+#EXTINF:0 tvg-id="StarzEast.us" group-title="Channels",US: Starz East
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/39453
+#EXTINF:0 tvg-id="StarzEdge.us" group-title="Channels",US: Starz Edge
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/79697
+#EXTINF:0 tvg-id="StarzEncore.us" group-title="Channels",US: Starz Encore
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32149
+#EXTINF:0 tvg-id="StarzEncoreAction.us" group-title="Channels",US: Starz Encore Action
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/159925
+#EXTINF:0 tvg-id="StarzEncoreClassic.us" group-title="Channels",US: Starz Encore Classic
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32141
+#EXTINF:0 tvg-id="StarzEncoreFamily.us" group-title="Channels",US: Starz Encore Family
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/159766
+#EXTINF:0 tvg-id="StarzEncoreSuspense.us" group-title="Channels",US: Starz Encore Suspense
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32143
+#EXTINF:0 tvg-id="StarzEncoreWesterns.us" group-title="Channels",US: Starz Encore Westerns
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32140
+#EXTINF:0 tvg-id="StarzHDWest.us" group-title="Channels",US: Starz West
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/159773
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Sundance TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/205831
+#EXTINF:0 tvg-id="SyfyHD.us" group-title="Channels",US: SyFy HD
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32402
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Tastemade
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/205832
+#EXTINF:0 tvg-id="TBSHD.us" group-title="Channels",US: TBS
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/205834
+#EXTINF:0 tvg-id="TCM.us" group-title="Channels",US: TCM
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/205835
+#EXTINF:0 tvg-id="Velocity.us" group-title="Channels",US: Discovery Velocity
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/205836
+#EXTINF:0 tvg-id="TLC.us" group-title="Channels",US: TLC
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/205837
+#EXTINF:0 tvg-id="TNT.us" group-title="Channels",US: TNT
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/205839
+#EXTINF:0 tvg-id="TravelChannel.us" group-title="Channels",US: Travel Channel
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32349
+#EXTINF:0 tvg-id="truTV.us" group-title="Channels",US: Tru TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/205840
+#EXTINF:0 tvg-id="TVLand.us" group-title="Channels",US: TV Land
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32412
+#EXTINF:0 tvg-id="TVG.us" group-title="Channels",US: TVG
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/205842
+#EXTINF:0 tvg-id="UniMas.us" group-title="Channels",US: Unimas
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/149132
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Universal Kids
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32168
+#EXTINF:0 tvg-id="VH1.us" group-title="Channels",US: VH1
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/205843
+#EXTINF:0 tvg-id="VicelandHD.us" group-title="Channels",US: Viceland HD
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32207
+#EXTINF:0 tvg-id="WEtv.us" group-title="Channels",US: WE TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/205844
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Weather Channel
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/208746
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",-TV USA- (PAGE 3)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481-TVUSA-
@@ -1302,6 +1593,85 @@ http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/61138
 http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/61137
 #EXTINF:0 tvg-id="ext" group-title="Channels",CA - CHCH  HD
 http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/61136
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",-TV CA- (PAGE 2)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/-TVCANADA-
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: A&E
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/77855
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: ABC HD
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32053
+#EXTINF:0 tvg-id="ABCSparksHD.ca" group-title="Channels",CA: ABC Spark
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/31959
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: AMC
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/77854
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Animal Planet
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/77853
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CMT
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/77848
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Cooking Channel
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/77847
+#EXTINF:0 tvg-id="CottageLife.ca" group-title="Channels",CA: Cottage Life
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/31985
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: CP24
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/31986
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: DeJaView
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/77845
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Discovery Science
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32006
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Disney XD
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/135307
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Dtour
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/77842
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: E! HD
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/135308
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Family Jr
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/77841
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: FR Casa
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/31952
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: FR Disney Channel
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/135353
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: FR Music Plus
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/135359
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: FR Series+
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/31957
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: FR Z Tele
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/135368
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: FR Zeste
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/113934
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: FX HD
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32037
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: FXX
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/135313
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: HBO
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32011
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: HBO 2
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/77837
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: ICI Télé Montreal
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/135356
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: LifeTime
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/77835
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: HGTV Canada
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32012
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: HLN
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/135324
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: NBA TV Canada
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32052
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: OLN
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/77832
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Paramount Network
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/135336
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Showcase
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/77831
+#EXTINF:0 tvg-id="Slice.ca" group-title="Channels",CA: Slice
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32026
+#EXTINF:0 tvg-id="TOONA.ca" group-title="Channels",CA: Teletoon
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/32027
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: TLC
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/135340
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: TVA Montréal
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/135289
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: WGN
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",-TV LAT-
 http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/-TVLATINO-
@@ -2975,8 +3345,257 @@ http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/60941
 #EXTINF:0 tvg-id="ext" group-title="Channels",UK - Sky Sports Cricket
 http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/68561
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",-TV UK- (PAGE 2)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/-TVUK-
+
+#EXTINF:0 tvg-id="4Seven.uk" group-title="Channels",UK: 4Seven
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16125
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: 5 Select
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16131
+#EXTINF:0 tvg-id="5star.uk" group-title="Channels",UK: 5 Star
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16172
+#EXTINF:0 tvg-id="AMC.uk" group-title="Channels",UK: AMC
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16178
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Channels",UK: Animal Planet
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16277
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Asia Sony TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/104074
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",UK: BBC 1
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16133
+#EXTINF:0 tvg-id="BBC2.uk" group-title="Channels",UK: BBC 2
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16135
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC 3
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16137
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC CBeebies
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16204
+#EXTINF:0 tvg-id="BBCNews.nws" group-title="Channels",UK: BBC News
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/104180
+#EXTINF:0 tvg-id="BBCWorldNews.nws" group-title="Channels",UK: BBC World News
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16301
+#EXTINF:0 tvg-id="BLAZE.uk" group-title="Channels",UK: Blaze
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16271
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Boomerang TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16195
+#EXTINF:0 tvg-id="Cartoonito.uk" group-title="Channels",UK: Cartoonito
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16203
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: CBS Justice
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16191
+#EXTINF:0 tvg-id="Channel4.uk" group-title="Channels",UK: Channel 4
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/104009
+#EXTINF:0 tvg-id="Channel5.uk" group-title="Channels",UK: Channel 5
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16118
+#EXTINF:0 tvg-id="ChelseaTV.uk" group-title="Channels",UK: Chelsea TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16246
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",UK: Comedy Central
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/104188
+#EXTINF:0 tvg-id="ComedyCentralExtra.uk" group-title="Channels",UK: Comedy Central Extra
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/104187
+#EXTINF:0 tvg-id="Discovery.uk" group-title="Channels",UK: Discovery Channel
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/104193
+#EXTINF:0 tvg-id="DiscoveryHistory.uk" group-title="Channels",UK: Discovery History
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16289
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="Channels",UK: Discovery Science
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16284
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Channels",UK: Discovery Turbo
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16285
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",UK: Disney Junior
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/104147
+#EXTINF:0 tvg-id="E4.uk" group-title="Channels",UK: E4
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16126
+#EXTINF:0 tvg-id="Euronews.uk" group-title="Channels",UK: Euronews
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16303
+#EXTINF:0 tvg-id="Film4.uk" group-title="Channels",UK: Film 4
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/104155
+#EXTINF:0 tvg-id="HomeandHealth.uk" group-title="Channels",UK: Home And Health
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/104161
+#EXTINF:0 tvg-id="ITV1London.uk" group-title="Channels",UK: ITV 1
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/104026
+#EXTINF:0 tvg-id="ITV2.uk" group-title="Channels",UK: ITV 2
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/104028
+#EXTINF:0 tvg-id="ITV3.uk" group-title="Channels",UK: ITV 3
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16111
+#EXTINF:0 tvg-id="ITV4.uk" group-title="Channels",UK: ITV 4
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/35156
+#EXTINF:0 tvg-id="ITVBe.uk" group-title="Channels",UK: ITV BE
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16115
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="Channels",UK: LifeTime
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16270
+#EXTINF:0 tvg-id="More4.uk" group-title="Channels",UK: More 4
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16128
+#EXTINF:0 tvg-id="MTVClassic.uk" group-title="Channels",UK: MTV Classic
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16320
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Channels",UK: National Geographic
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16280
+#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="Channels",UK: Nat Geo Wild
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16281
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="Channels",UK: Nick Jr
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16199
+#EXTINF:0 tvg-id="Quest.uk" group-title="Channels",UK: Quest
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16132
+#EXTINF:0 tvg-id="Really.uk" group-title="Channels",UK: Really
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16182
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Red Bull TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16249
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",UK: SyFy
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/104238
+#EXTINF:0 tvg-id="tinypop.uk" group-title="Channels",UK: Tiny Pop
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16205
+#EXTINF:0 tvg-id="TruTV.uk" group-title="Channels",UK: Tru TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16130
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Watch TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/16184
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",-TV ESP-
 http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/-TVESPANA-
+
+#EXTINF:0 tvg-id="Hashtag0.es" group-title="Channels",ES: #0
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136051
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: #Vamos HD
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136122
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: A3 Series
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136062
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Alcarria TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/207579
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Alternativa TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/207580
+#EXTINF:0 tvg-id="AMC.es" group-title="Channels",ES: AMC
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136052
+#EXTINF:0 tvg-id="Antena3.es" group-title="Channels",ES: Antena 3
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136021
+#EXTINF:0 tvg-id="AragonTVsat.sp" group-title="Channels",ES: Aragon TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/207581
+#EXTINF:0 tvg-id="AXNhd.es" group-title="Channels",ES: AXN
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136053
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="Channels",ES: AXN White
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136054
+#EXTINF:0 tvg-id="BEMAD.es" group-title="Channels",ES: Be Mad
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/139690
+#EXTINF:0 tvg-id="Boing.es" group-title="Channels",ES: Boing
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136092
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: C33 Madrid
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/207583
+#EXTINF:0 tvg-id="24Horas.sp" group-title="Channels",ES: Canal 24 Horas
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136025
+#EXTINF:0 tvg-id="Cocina.es" group-title="Channels",ES: Canal Cocina
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136045
+#EXTINF:0 tvg-id="CanalExtremadura.es" group-title="Channels",ES: Canal Extremadura
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/207587
+#EXTINF:0 tvg-id="Historia.es" group-title="Channels",ES: Canal Historia
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136038
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Canal Malaga
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/207588
+#EXTINF:0 tvg-id="Panda.es" group-title="Channels",ES: Canal Panda
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136096
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="Channels",ES: Caza Y Pesca
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136059
+#EXTINF:0 tvg-id="Cazavision.es" group-title="Channels",ES: Cazavision
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/207590
+#EXTINF:0 tvg-id="ClanTVE.es" group-title="Channels",ES: Clan
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136093
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="Channels",ES: Comedy Central
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136043
+#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="Channels",ES: Cosmo
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136046
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Costadelsol TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/207591
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Crimen And Investigacion
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/207592
+#EXTINF:0 tvg-id="Cuatro.es" group-title="Channels",ES: Cuatro
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136022
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Decasa TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136044
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="Channels",ES: Discovery Channel
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136037
+#EXTINF:0 tvg-id="DisneyChannel.es" group-title="Channels",ES: Disney Channel
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136089
+#EXTINF:0 tvg-id="DisneyJr.es" group-title="Channels",ES: Disney Junior
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136090
+#EXTINF:0 tvg-id="Divinity.es" group-title="Channels",ES: Divinity
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136091
+#EXTINF:0 tvg-id="DKISS.es" group-title="Channels",ES: DKiss
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/207092
+#EXTINF:0 tvg-id="DMAX.es" group-title="Channels",ES: Dmax
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/207595
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Dreamworks
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/207565
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: El Toro TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/207094
+#EXTINF:0 tvg-id="FDF.es" group-title="Channels",ES: FDF
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136034
+#EXTINF:0 tvg-id="Fox.es" group-title="Channels",ES: Fox
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136057
+#EXTINF:0 tvg-id="FoxLife.es" group-title="Channels",ES: Fox Life
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136058
+#EXTINF:0 tvg-id="GOL.es" group-title="Channels",ES: Gol TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136002
+#EXTINF:0 tvg-id="Hollywood.es" group-title="Channels",ES: Hollywood
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136064
+#EXTINF:0 tvg-id="LA1.es" group-title="Channels",ES: La 1
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136018
+#EXTINF:0 tvg-id="LA2.es" group-title="Channels",ES: La 2
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136019
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: La Resistencia
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/207599
+#EXTINF:0 tvg-id="LaSexta.sp" group-title="Channels",ES: La Sexta
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136024
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Lancelot TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/207600
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Levante TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/207601
+#EXTINF:0 tvg-id="Mega.es" group-title="Channels",ES: Mega
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136026
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Melilla TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/207602
+#EXTINF:0 tvg-id="M.Accion.es" group-title="Channels",ES: Movistar Accion
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136065
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Movistar Cine Español
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136066
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="Channels",ES: Movistar Comedia
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136068
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Movistar Drama
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136071
+#EXTINF:0 tvg-id="M.Estrenos.es" group-title="Channels",ES: Movistar Estrenos
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136072
+#EXTINF:0 tvg-id="MTVEsp.es" group-title="Channels",ES: MTV España
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136100
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Music Top
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136104
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="Channels",ES: Nat Geo Wild
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136040
+#EXTINF:0 tvg-id="Neox.es" group-title="Channels",ES: Neox
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136035
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="Channels",ES: Nickelodeon
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136094
+#EXTINF:0 tvg-id="Nova.es" group-title="Channels",ES: Nova
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136032
+#EXTINF:0 tvg-id="Paramount.es" group-title="Channels",ES: Paramount Channel
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/86436
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Ribera TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/207606
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Solidaria TV
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/207608
+#EXTINF:0 tvg-id="Sundance.es" group-title="Channels",ES: Sundance
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136087
+#EXTINF:0 tvg-id="Scifi.es" group-title="Channels",ES: SyFy
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136080
+#EXTINF:0 tvg-id="TCM.es" group-title="Channels",ES: TCM
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/76388
+#EXTINF:0 tvg-id="Telecinco.es" group-title="Channels",ES: TeleCinco
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136023
+#EXTINF:0 tvg-id="Telemadrid.es" group-title="Channels",ES: TeleMadrid
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/207609
+#EXTINF:0 tvg-id="Ten.es" group-title="Channels",ES: TEN
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/207613
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Teve Cat
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/207615
+#EXTINF:0 tvg-id="TNT.es" group-title="Channels",ES: TNT
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136082
+#EXTINF:0 tvg-id="Trece.es" group-title="Channels",ES: Trece
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/207616
+#EXTINF:0 tvg-id="TVG.es" group-title="Channels",ES: TVG
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/207617
+#EXTINF:0 tvg-id="XTRM.es" group-title="Channels",ES: Xtrm
+http://iptvh2o.com:2082/ZoomMaster/j6Xk9YS6W85vM/136083
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",-TV ADULT-
 http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/-TVXXX-
